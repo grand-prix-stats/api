@@ -1,0 +1,57 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "Grand Prix Stats API",
+    "version": "0.1",
+    "title": "Grand Prix Stats API",
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "host": "www.grandprixstats.org",
+  "basePath": "/api",
+  "schemes": [
+    "https"
+  ],
+  "paths": {
+    "/f1/test.json": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "summary": "Gut check test",
+        "description": "Hello world",
+        "operationId": "f1test",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "schema": {
+              "type": "object",
+              "items": {
+                "$ref": "#/definitions/Test"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Test": {
+      "type": "object",
+      "properties": {
+        "hello": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "externalDocs": {
+    "description": "Visit Grand Prix Stats",
+    "url": "https://www.grandprixstats.org"
+  }
+}
