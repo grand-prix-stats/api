@@ -1,0 +1,298 @@
+Compile Swift Module 'SQLFormatter' (2 sources)
+Compile Swift Module 'MySQL' (15 sources)
+Compile Swift Module 'APIGenerator' (1 sources)
+Linking ./.build/x86_64-apple-macosx10.10/debug/api
+[
+  {
+    "name" : "Albert Park Grand Prix Circuit",
+    "circuitRef" : "albert_park"
+  },
+  {
+    "name" : "Sepang International Circuit",
+    "circuitRef" : "sepang"
+  },
+  {
+    "name" : "Bahrain International Circuit",
+    "circuitRef" : "bahrain"
+  },
+  {
+    "name" : "Circuit de Barcelona-Catalunya",
+    "circuitRef" : "catalunya"
+  },
+  {
+    "name" : "Istanbul Park",
+    "circuitRef" : "istanbul"
+  },
+  {
+    "name" : "Circuit de Monaco",
+    "circuitRef" : "monaco"
+  },
+  {
+    "name" : "Circuit Gilles Villeneuve",
+    "circuitRef" : "villeneuve"
+  },
+  {
+    "name" : "Circuit de Nevers Magny-Cours",
+    "circuitRef" : "magny_cours"
+  },
+  {
+    "name" : "Silverstone Circuit",
+    "circuitRef" : "silverstone"
+  },
+  {
+    "name" : "Hockenheimring",
+    "circuitRef" : "hockenheimring"
+  },
+  {
+    "name" : "Hungaroring",
+    "circuitRef" : "hungaroring"
+  },
+  {
+    "name" : "Valencia Street Circuit",
+    "circuitRef" : "valencia"
+  },
+  {
+    "name" : "Circuit de Spa-Francorchamps",
+    "circuitRef" : "spa"
+  },
+  {
+    "name" : "Autodromo Nazionale di Monza",
+    "circuitRef" : "monza"
+  },
+  {
+    "name" : "Marina Bay Street Circuit",
+    "circuitRef" : "marina_bay"
+  },
+  {
+    "name" : "Fuji Speedway",
+    "circuitRef" : "fuji"
+  },
+  {
+    "name" : "Shanghai International Circuit",
+    "circuitRef" : "shanghai"
+  },
+  {
+    "name" : "Autódromo José Carlos Pace",
+    "circuitRef" : "interlagos"
+  },
+  {
+    "name" : "Indianapolis Motor Speedway",
+    "circuitRef" : "indianapolis"
+  },
+  {
+    "name" : "Nürburgring",
+    "circuitRef" : "nurburgring"
+  },
+  {
+    "name" : "Autodromo Enzo e Dino Ferrari",
+    "circuitRef" : "imola"
+  },
+  {
+    "name" : "Suzuka Circuit",
+    "circuitRef" : "suzuka"
+  },
+  {
+    "name" : "A1-Ring",
+    "circuitRef" : "osterreichring"
+  },
+  {
+    "name" : "Yas Marina Circuit",
+    "circuitRef" : "yas_marina"
+  },
+  {
+    "name" : "Autódromo Juan y Oscar Gálvez",
+    "circuitRef" : "galvez"
+  },
+  {
+    "name" : "Circuito de Jerez",
+    "circuitRef" : "jerez"
+  },
+  {
+    "name" : "Autódromo do Estoril",
+    "circuitRef" : "estoril"
+  },
+  {
+    "name" : "Okayama International Circuit",
+    "circuitRef" : "okayama"
+  },
+  {
+    "name" : "Adelaide Street Circuit",
+    "circuitRef" : "adelaide"
+  },
+  {
+    "name" : "Kyalami",
+    "circuitRef" : "kyalami"
+  },
+  {
+    "name" : "Donington Park",
+    "circuitRef" : "donington"
+  },
+  {
+    "name" : "Autódromo Hermanos Rodríguez",
+    "circuitRef" : "rodriguez"
+  },
+  {
+    "name" : "Phoenix street circuit",
+    "circuitRef" : "phoenix"
+  },
+  {
+    "name" : "Circuit Paul Ricard",
+    "circuitRef" : "ricard"
+  },
+  {
+    "name" : "Korean International Circuit",
+    "circuitRef" : "yeongam"
+  },
+  {
+    "name" : "Autódromo Internacional Nelson Piquet",
+    "circuitRef" : "jacarepagua"
+  },
+  {
+    "name" : "Detroit Street Circuit",
+    "circuitRef" : "detroit"
+  },
+  {
+    "name" : "Brands Hatch",
+    "circuitRef" : "brands_hatch"
+  },
+  {
+    "name" : "Circuit Park Zandvoort",
+    "circuitRef" : "zandvoort"
+  },
+  {
+    "name" : "Zolder",
+    "circuitRef" : "zolder"
+  },
+  {
+    "name" : "Dijon-Prenois",
+    "circuitRef" : "dijon"
+  },
+  {
+    "name" : "Fair Park",
+    "circuitRef" : "dallas"
+  },
+  {
+    "name" : "Long Beach",
+    "circuitRef" : "long_beach"
+  },
+  {
+    "name" : "Las Vegas Street Circuit",
+    "circuitRef" : "las_vegas"
+  },
+  {
+    "name" : "Jarama",
+    "circuitRef" : "jarama"
+  },
+  {
+    "name" : "Watkins Glen",
+    "circuitRef" : "watkins_glen"
+  },
+  {
+    "name" : "Scandinavian Raceway",
+    "circuitRef" : "anderstorp"
+  },
+  {
+    "name" : "Mosport International Raceway",
+    "circuitRef" : "mosport"
+  },
+  {
+    "name" : "Montjuïc",
+    "circuitRef" : "montjuic"
+  },
+  {
+    "name" : "Nivelles-Baulers",
+    "circuitRef" : "nivelles"
+  },
+  {
+    "name" : "Charade Circuit",
+    "circuitRef" : "charade"
+  },
+  {
+    "name" : "Circuit Mont-Tremblant",
+    "circuitRef" : "tremblant"
+  },
+  {
+    "name" : "Rouen-Les-Essarts",
+    "circuitRef" : "essarts"
+  },
+  {
+    "name" : "Le Mans",
+    "circuitRef" : "lemans"
+  },
+  {
+    "name" : "Reims-Gueux",
+    "circuitRef" : "reims"
+  },
+  {
+    "name" : "Prince George Circuit",
+    "circuitRef" : "george"
+  },
+  {
+    "name" : "Zeltweg",
+    "circuitRef" : "zeltweg"
+  },
+  {
+    "name" : "Aintree",
+    "circuitRef" : "aintree"
+  },
+  {
+    "name" : "Circuito da Boavista",
+    "circuitRef" : "boavista"
+  },
+  {
+    "name" : "Riverside International Raceway",
+    "circuitRef" : "riverside"
+  },
+  {
+    "name" : "AVUS",
+    "circuitRef" : "avus"
+  },
+  {
+    "name" : "Monsanto Park Circuit",
+    "circuitRef" : "monsanto"
+  },
+  {
+    "name" : "Sebring International Raceway",
+    "circuitRef" : "sebring"
+  },
+  {
+    "name" : "Ain Diab",
+    "circuitRef" : "ain-diab"
+  },
+  {
+    "name" : "Pescara Circuit",
+    "circuitRef" : "pescara"
+  },
+  {
+    "name" : "Circuit Bremgarten",
+    "circuitRef" : "bremgarten"
+  },
+  {
+    "name" : "Circuit de Pedralbes",
+    "circuitRef" : "pedralbes"
+  },
+  {
+    "name" : "Buddh International Circuit",
+    "circuitRef" : "buddh"
+  },
+  {
+    "name" : "Circuit of the Americas",
+    "circuitRef" : "americas"
+  },
+  {
+    "name" : "Red Bull Ring",
+    "circuitRef" : "red_bull_ring"
+  },
+  {
+    "name" : "Sochi Autodrom",
+    "circuitRef" : "sochi"
+  },
+  {
+    "name" : "Port Imperial Street Circuit",
+    "circuitRef" : "port_imperial"
+  },
+  {
+    "name" : "Baku City Circuit",
+    "circuitRef" : "BAK"
+  }
+]
