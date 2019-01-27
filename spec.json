@@ -10,7 +10,7 @@
     }
   },
   "host": "www.grandprixstats.org",
-  "basePath": "/api",
+  "basePath": "/api/v1",
   "schemes": [
     "https"
   ],
