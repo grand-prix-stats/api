@@ -1,0 +1,7128 @@
+[
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 1,
+    "year" : 1950,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195001"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1950,
+    "circuitRef" : "monaco",
+    "raceRef" : "195002"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 3,
+    "year" : 1950,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195003"
+  },
+  {
+    "circuitName" : "Circuit Bremgarten",
+    "round" : 4,
+    "year" : 1950,
+    "circuitRef" : "bremgarten",
+    "raceRef" : "195004"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 5,
+    "year" : 1950,
+    "circuitRef" : "spa",
+    "raceRef" : "195005"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 6,
+    "year" : 1950,
+    "circuitRef" : "reims",
+    "raceRef" : "195006"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1950,
+    "circuitRef" : "monza",
+    "raceRef" : "195007"
+  },
+  {
+    "circuitName" : "Circuit Bremgarten",
+    "round" : 1,
+    "year" : 1951,
+    "circuitRef" : "bremgarten",
+    "raceRef" : "195101"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 2,
+    "year" : 1951,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195102"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1951,
+    "circuitRef" : "spa",
+    "raceRef" : "195103"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 4,
+    "year" : 1951,
+    "circuitRef" : "reims",
+    "raceRef" : "195104"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 5,
+    "year" : 1951,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195105"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1951,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195106"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1951,
+    "circuitRef" : "monza",
+    "raceRef" : "195107"
+  },
+  {
+    "circuitName" : "Circuit de Pedralbes",
+    "round" : 8,
+    "year" : 1951,
+    "circuitRef" : "pedralbes",
+    "raceRef" : "195108"
+  },
+  {
+    "circuitName" : "Circuit Bremgarten",
+    "round" : 1,
+    "year" : 1952,
+    "circuitRef" : "bremgarten",
+    "raceRef" : "195201"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 2,
+    "year" : 1952,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195202"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1952,
+    "circuitRef" : "spa",
+    "raceRef" : "195203"
+  },
+  {
+    "circuitName" : "Rouen-Les-Essarts",
+    "round" : 4,
+    "year" : 1952,
+    "circuitRef" : "essarts",
+    "raceRef" : "195204"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 5,
+    "year" : 1952,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195205"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1952,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195206"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 7,
+    "year" : 1952,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "195207"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1952,
+    "circuitRef" : "monza",
+    "raceRef" : "195208"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1953,
+    "circuitRef" : "galvez",
+    "raceRef" : "195301"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 2,
+    "year" : 1953,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195302"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 3,
+    "year" : 1953,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "195303"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 4,
+    "year" : 1953,
+    "circuitRef" : "spa",
+    "raceRef" : "195304"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 5,
+    "year" : 1953,
+    "circuitRef" : "reims",
+    "raceRef" : "195305"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 6,
+    "year" : 1953,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195306"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 1953,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195307"
+  },
+  {
+    "circuitName" : "Circuit Bremgarten",
+    "round" : 8,
+    "year" : 1953,
+    "circuitRef" : "bremgarten",
+    "raceRef" : "195308"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 9,
+    "year" : 1953,
+    "circuitRef" : "monza",
+    "raceRef" : "195309"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1954,
+    "circuitRef" : "galvez",
+    "raceRef" : "195401"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 2,
+    "year" : 1954,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195402"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1954,
+    "circuitRef" : "spa",
+    "raceRef" : "195403"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 4,
+    "year" : 1954,
+    "circuitRef" : "reims",
+    "raceRef" : "195404"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 5,
+    "year" : 1954,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195405"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1954,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195406"
+  },
+  {
+    "circuitName" : "Circuit Bremgarten",
+    "round" : 7,
+    "year" : 1954,
+    "circuitRef" : "bremgarten",
+    "raceRef" : "195407"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1954,
+    "circuitRef" : "monza",
+    "raceRef" : "195408"
+  },
+  {
+    "circuitName" : "Circuit de Pedralbes",
+    "round" : 9,
+    "year" : 1954,
+    "circuitRef" : "pedralbes",
+    "raceRef" : "195409"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1955,
+    "circuitRef" : "galvez",
+    "raceRef" : "195501"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1955,
+    "circuitRef" : "monaco",
+    "raceRef" : "195502"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 3,
+    "year" : 1955,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195503"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 4,
+    "year" : 1955,
+    "circuitRef" : "spa",
+    "raceRef" : "195504"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 5,
+    "year" : 1955,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "195505"
+  },
+  {
+    "circuitName" : "Aintree",
+    "round" : 6,
+    "year" : 1955,
+    "circuitRef" : "aintree",
+    "raceRef" : "195506"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1955,
+    "circuitRef" : "monza",
+    "raceRef" : "195507"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1956,
+    "circuitRef" : "galvez",
+    "raceRef" : "195601"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1956,
+    "circuitRef" : "monaco",
+    "raceRef" : "195602"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 3,
+    "year" : 1956,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195603"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 4,
+    "year" : 1956,
+    "circuitRef" : "spa",
+    "raceRef" : "195604"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 5,
+    "year" : 1956,
+    "circuitRef" : "reims",
+    "raceRef" : "195605"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 6,
+    "year" : 1956,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195606"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 1956,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195607"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1956,
+    "circuitRef" : "monza",
+    "raceRef" : "195608"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1957,
+    "circuitRef" : "galvez",
+    "raceRef" : "195701"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1957,
+    "circuitRef" : "monaco",
+    "raceRef" : "195702"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 3,
+    "year" : 1957,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195703"
+  },
+  {
+    "circuitName" : "Rouen-Les-Essarts",
+    "round" : 4,
+    "year" : 1957,
+    "circuitRef" : "essarts",
+    "raceRef" : "195704"
+  },
+  {
+    "circuitName" : "Aintree",
+    "round" : 5,
+    "year" : 1957,
+    "circuitRef" : "aintree",
+    "raceRef" : "195705"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1957,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195706"
+  },
+  {
+    "circuitName" : "Pescara Circuit",
+    "round" : 7,
+    "year" : 1957,
+    "circuitRef" : "pescara",
+    "raceRef" : "195707"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1957,
+    "circuitRef" : "monza",
+    "raceRef" : "195708"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1958,
+    "circuitRef" : "galvez",
+    "raceRef" : "195801"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1958,
+    "circuitRef" : "monaco",
+    "raceRef" : "195802"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 3,
+    "year" : 1958,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "195803"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 4,
+    "year" : 1958,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195804"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 5,
+    "year" : 1958,
+    "circuitRef" : "spa",
+    "raceRef" : "195805"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 6,
+    "year" : 1958,
+    "circuitRef" : "reims",
+    "raceRef" : "195806"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 7,
+    "year" : 1958,
+    "circuitRef" : "silverstone",
+    "raceRef" : "195807"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 8,
+    "year" : 1958,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "195808"
+  },
+  {
+    "circuitName" : "Circuito da Boavista",
+    "round" : 9,
+    "year" : 1958,
+    "circuitRef" : "boavista",
+    "raceRef" : "195809"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 10,
+    "year" : 1958,
+    "circuitRef" : "monza",
+    "raceRef" : "195810"
+  },
+  {
+    "circuitName" : "Ain Diab",
+    "round" : 11,
+    "year" : 1958,
+    "circuitRef" : "ain-diab",
+    "raceRef" : "195811"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 1,
+    "year" : 1959,
+    "circuitRef" : "monaco",
+    "raceRef" : "195901"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 2,
+    "year" : 1959,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "195902"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 3,
+    "year" : 1959,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "195903"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 4,
+    "year" : 1959,
+    "circuitRef" : "reims",
+    "raceRef" : "195904"
+  },
+  {
+    "circuitName" : "Aintree",
+    "round" : 5,
+    "year" : 1959,
+    "circuitRef" : "aintree",
+    "raceRef" : "195905"
+  },
+  {
+    "circuitName" : "AVUS",
+    "round" : 6,
+    "year" : 1959,
+    "circuitRef" : "avus",
+    "raceRef" : "195906"
+  },
+  {
+    "circuitName" : "Monsanto Park Circuit",
+    "round" : 7,
+    "year" : 1959,
+    "circuitRef" : "monsanto",
+    "raceRef" : "195907"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1959,
+    "circuitRef" : "monza",
+    "raceRef" : "195908"
+  },
+  {
+    "circuitName" : "Sebring International Raceway",
+    "round" : 9,
+    "year" : 1959,
+    "circuitRef" : "sebring",
+    "raceRef" : "195909"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1960,
+    "circuitRef" : "galvez",
+    "raceRef" : "196001"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1960,
+    "circuitRef" : "monaco",
+    "raceRef" : "196002"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 3,
+    "year" : 1960,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "196003"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 4,
+    "year" : 1960,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196004"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 5,
+    "year" : 1960,
+    "circuitRef" : "spa",
+    "raceRef" : "196005"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 6,
+    "year" : 1960,
+    "circuitRef" : "reims",
+    "raceRef" : "196006"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 7,
+    "year" : 1960,
+    "circuitRef" : "silverstone",
+    "raceRef" : "196007"
+  },
+  {
+    "circuitName" : "Circuito da Boavista",
+    "round" : 8,
+    "year" : 1960,
+    "circuitRef" : "boavista",
+    "raceRef" : "196008"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 9,
+    "year" : 1960,
+    "circuitRef" : "monza",
+    "raceRef" : "196009"
+  },
+  {
+    "circuitName" : "Riverside International Raceway",
+    "round" : 10,
+    "year" : 1960,
+    "circuitRef" : "riverside",
+    "raceRef" : "196010"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 1,
+    "year" : 1961,
+    "circuitRef" : "monaco",
+    "raceRef" : "196101"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 2,
+    "year" : 1961,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196102"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1961,
+    "circuitRef" : "spa",
+    "raceRef" : "196103"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 4,
+    "year" : 1961,
+    "circuitRef" : "reims",
+    "raceRef" : "196104"
+  },
+  {
+    "circuitName" : "Aintree",
+    "round" : 5,
+    "year" : 1961,
+    "circuitRef" : "aintree",
+    "raceRef" : "196105"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1961,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196106"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1961,
+    "circuitRef" : "monza",
+    "raceRef" : "196107"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 8,
+    "year" : 1961,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196108"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 1,
+    "year" : 1962,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196201"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1962,
+    "circuitRef" : "monaco",
+    "raceRef" : "196202"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1962,
+    "circuitRef" : "spa",
+    "raceRef" : "196203"
+  },
+  {
+    "circuitName" : "Rouen-Les-Essarts",
+    "round" : 4,
+    "year" : 1962,
+    "circuitRef" : "essarts",
+    "raceRef" : "196204"
+  },
+  {
+    "circuitName" : "Aintree",
+    "round" : 5,
+    "year" : 1962,
+    "circuitRef" : "aintree",
+    "raceRef" : "196205"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1962,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196206"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1962,
+    "circuitRef" : "monza",
+    "raceRef" : "196207"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 8,
+    "year" : 1962,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196208"
+  },
+  {
+    "circuitName" : "Prince George Circuit",
+    "round" : 9,
+    "year" : 1962,
+    "circuitRef" : "george",
+    "raceRef" : "196209"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 1,
+    "year" : 1963,
+    "circuitRef" : "monaco",
+    "raceRef" : "196301"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 2,
+    "year" : 1963,
+    "circuitRef" : "spa",
+    "raceRef" : "196302"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 3,
+    "year" : 1963,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196303"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 4,
+    "year" : 1963,
+    "circuitRef" : "reims",
+    "raceRef" : "196304"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 5,
+    "year" : 1963,
+    "circuitRef" : "silverstone",
+    "raceRef" : "196305"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1963,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196306"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1963,
+    "circuitRef" : "monza",
+    "raceRef" : "196307"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 8,
+    "year" : 1963,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196308"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 9,
+    "year" : 1963,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196309"
+  },
+  {
+    "circuitName" : "Prince George Circuit",
+    "round" : 10,
+    "year" : 1963,
+    "circuitRef" : "george",
+    "raceRef" : "196310"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 1,
+    "year" : 1964,
+    "circuitRef" : "monaco",
+    "raceRef" : "196401"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 2,
+    "year" : 1964,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196402"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1964,
+    "circuitRef" : "spa",
+    "raceRef" : "196403"
+  },
+  {
+    "circuitName" : "Rouen-Les-Essarts",
+    "round" : 4,
+    "year" : 1964,
+    "circuitRef" : "essarts",
+    "raceRef" : "196404"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 5,
+    "year" : 1964,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "196405"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1964,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196406"
+  },
+  {
+    "circuitName" : "Zeltweg",
+    "round" : 7,
+    "year" : 1964,
+    "circuitRef" : "zeltweg",
+    "raceRef" : "196407"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1964,
+    "circuitRef" : "monza",
+    "raceRef" : "196408"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 9,
+    "year" : 1964,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196409"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 10,
+    "year" : 1964,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196410"
+  },
+  {
+    "circuitName" : "Prince George Circuit",
+    "round" : 1,
+    "year" : 1965,
+    "circuitRef" : "george",
+    "raceRef" : "196501"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1965,
+    "circuitRef" : "monaco",
+    "raceRef" : "196502"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1965,
+    "circuitRef" : "spa",
+    "raceRef" : "196503"
+  },
+  {
+    "circuitName" : "Charade Circuit",
+    "round" : 4,
+    "year" : 1965,
+    "circuitRef" : "charade",
+    "raceRef" : "196504"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 5,
+    "year" : 1965,
+    "circuitRef" : "silverstone",
+    "raceRef" : "196505"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 6,
+    "year" : 1965,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196506"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 1965,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196507"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1965,
+    "circuitRef" : "monza",
+    "raceRef" : "196508"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 9,
+    "year" : 1965,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196509"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 10,
+    "year" : 1965,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196510"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 1,
+    "year" : 1966,
+    "circuitRef" : "monaco",
+    "raceRef" : "196601"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 2,
+    "year" : 1966,
+    "circuitRef" : "spa",
+    "raceRef" : "196602"
+  },
+  {
+    "circuitName" : "Reims-Gueux",
+    "round" : 3,
+    "year" : 1966,
+    "circuitRef" : "reims",
+    "raceRef" : "196603"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 4,
+    "year" : 1966,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "196604"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 5,
+    "year" : 1966,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196605"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 1966,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196606"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 7,
+    "year" : 1966,
+    "circuitRef" : "monza",
+    "raceRef" : "196607"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 8,
+    "year" : 1966,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196608"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 9,
+    "year" : 1966,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196609"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1967,
+    "circuitRef" : "kyalami",
+    "raceRef" : "196701"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 2,
+    "year" : 1967,
+    "circuitRef" : "monaco",
+    "raceRef" : "196702"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 3,
+    "year" : 1967,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196703"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 4,
+    "year" : 1967,
+    "circuitRef" : "spa",
+    "raceRef" : "196704"
+  },
+  {
+    "circuitName" : "Le Mans",
+    "round" : 5,
+    "year" : 1967,
+    "circuitRef" : "lemans",
+    "raceRef" : "196705"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 6,
+    "year" : 1967,
+    "circuitRef" : "silverstone",
+    "raceRef" : "196706"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 1967,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196707"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 8,
+    "year" : 1967,
+    "circuitRef" : "mosport",
+    "raceRef" : "196708"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 9,
+    "year" : 1967,
+    "circuitRef" : "monza",
+    "raceRef" : "196709"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 10,
+    "year" : 1967,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196710"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 11,
+    "year" : 1967,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196711"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1968,
+    "circuitRef" : "kyalami",
+    "raceRef" : "196801"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 2,
+    "year" : 1968,
+    "circuitRef" : "jarama",
+    "raceRef" : "196802"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 3,
+    "year" : 1968,
+    "circuitRef" : "monaco",
+    "raceRef" : "196803"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 4,
+    "year" : 1968,
+    "circuitRef" : "spa",
+    "raceRef" : "196804"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 5,
+    "year" : 1968,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196805"
+  },
+  {
+    "circuitName" : "Rouen-Les-Essarts",
+    "round" : 6,
+    "year" : 1968,
+    "circuitRef" : "essarts",
+    "raceRef" : "196806"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 7,
+    "year" : 1968,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "196807"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 8,
+    "year" : 1968,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196808"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 9,
+    "year" : 1968,
+    "circuitRef" : "monza",
+    "raceRef" : "196809"
+  },
+  {
+    "circuitName" : "Circuit Mont-Tremblant",
+    "round" : 10,
+    "year" : 1968,
+    "circuitRef" : "tremblant",
+    "raceRef" : "196810"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 11,
+    "year" : 1968,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196811"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 12,
+    "year" : 1968,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196812"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1969,
+    "circuitRef" : "kyalami",
+    "raceRef" : "196901"
+  },
+  {
+    "circuitName" : "Montjuïc",
+    "round" : 2,
+    "year" : 1969,
+    "circuitRef" : "montjuic",
+    "raceRef" : "196902"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 3,
+    "year" : 1969,
+    "circuitRef" : "monaco",
+    "raceRef" : "196903"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 4,
+    "year" : 1969,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "196904"
+  },
+  {
+    "circuitName" : "Charade Circuit",
+    "round" : 5,
+    "year" : 1969,
+    "circuitRef" : "charade",
+    "raceRef" : "196905"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 6,
+    "year" : 1969,
+    "circuitRef" : "silverstone",
+    "raceRef" : "196906"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 1969,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "196907"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 1969,
+    "circuitRef" : "monza",
+    "raceRef" : "196908"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 9,
+    "year" : 1969,
+    "circuitRef" : "mosport",
+    "raceRef" : "196909"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 10,
+    "year" : 1969,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "196910"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 11,
+    "year" : 1969,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "196911"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1970,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197001"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 2,
+    "year" : 1970,
+    "circuitRef" : "jarama",
+    "raceRef" : "197002"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 3,
+    "year" : 1970,
+    "circuitRef" : "monaco",
+    "raceRef" : "197003"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 4,
+    "year" : 1970,
+    "circuitRef" : "spa",
+    "raceRef" : "197004"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 5,
+    "year" : 1970,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197005"
+  },
+  {
+    "circuitName" : "Charade Circuit",
+    "round" : 6,
+    "year" : 1970,
+    "circuitRef" : "charade",
+    "raceRef" : "197006"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 7,
+    "year" : 1970,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "197007"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 8,
+    "year" : 1970,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "197008"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 9,
+    "year" : 1970,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197009"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 10,
+    "year" : 1970,
+    "circuitRef" : "monza",
+    "raceRef" : "197010"
+  },
+  {
+    "circuitName" : "Circuit Mont-Tremblant",
+    "round" : 11,
+    "year" : 1970,
+    "circuitRef" : "tremblant",
+    "raceRef" : "197011"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 12,
+    "year" : 1970,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197012"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 13,
+    "year" : 1970,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "197013"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1971,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197101"
+  },
+  {
+    "circuitName" : "Montjuïc",
+    "round" : 2,
+    "year" : 1971,
+    "circuitRef" : "montjuic",
+    "raceRef" : "197102"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 3,
+    "year" : 1971,
+    "circuitRef" : "monaco",
+    "raceRef" : "197103"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 4,
+    "year" : 1971,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197104"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 5,
+    "year" : 1971,
+    "circuitRef" : "ricard",
+    "raceRef" : "197105"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 6,
+    "year" : 1971,
+    "circuitRef" : "silverstone",
+    "raceRef" : "197106"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 1971,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "197107"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 8,
+    "year" : 1971,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197108"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 9,
+    "year" : 1971,
+    "circuitRef" : "monza",
+    "raceRef" : "197109"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 10,
+    "year" : 1971,
+    "circuitRef" : "mosport",
+    "raceRef" : "197110"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 11,
+    "year" : 1971,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197111"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1972,
+    "circuitRef" : "galvez",
+    "raceRef" : "197201"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 2,
+    "year" : 1972,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197202"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 3,
+    "year" : 1972,
+    "circuitRef" : "jarama",
+    "raceRef" : "197203"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1972,
+    "circuitRef" : "monaco",
+    "raceRef" : "197204"
+  },
+  {
+    "circuitName" : "Nivelles-Baulers",
+    "round" : 5,
+    "year" : 1972,
+    "circuitRef" : "nivelles",
+    "raceRef" : "197205"
+  },
+  {
+    "circuitName" : "Charade Circuit",
+    "round" : 6,
+    "year" : 1972,
+    "circuitRef" : "charade",
+    "raceRef" : "197206"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 7,
+    "year" : 1972,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "197207"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 8,
+    "year" : 1972,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "197208"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 9,
+    "year" : 1972,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197209"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 10,
+    "year" : 1972,
+    "circuitRef" : "monza",
+    "raceRef" : "197210"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 11,
+    "year" : 1972,
+    "circuitRef" : "mosport",
+    "raceRef" : "197211"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 12,
+    "year" : 1972,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197212"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1973,
+    "circuitRef" : "galvez",
+    "raceRef" : "197301"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1973,
+    "circuitRef" : "interlagos",
+    "raceRef" : "197302"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1973,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197303"
+  },
+  {
+    "circuitName" : "Montjuïc",
+    "round" : 4,
+    "year" : 1973,
+    "circuitRef" : "montjuic",
+    "raceRef" : "197304"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 5,
+    "year" : 1973,
+    "circuitRef" : "zolder",
+    "raceRef" : "197305"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1973,
+    "circuitRef" : "monaco",
+    "raceRef" : "197306"
+  },
+  {
+    "circuitName" : "Scandinavian Raceway",
+    "round" : 7,
+    "year" : 1973,
+    "circuitRef" : "anderstorp",
+    "raceRef" : "197307"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 8,
+    "year" : 1973,
+    "circuitRef" : "ricard",
+    "raceRef" : "197308"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1973,
+    "circuitRef" : "silverstone",
+    "raceRef" : "197309"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 10,
+    "year" : 1973,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197310"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 11,
+    "year" : 1973,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "197311"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1973,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197312"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1973,
+    "circuitRef" : "monza",
+    "raceRef" : "197313"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 14,
+    "year" : 1973,
+    "circuitRef" : "mosport",
+    "raceRef" : "197314"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 15,
+    "year" : 1973,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197315"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1974,
+    "circuitRef" : "galvez",
+    "raceRef" : "197401"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1974,
+    "circuitRef" : "interlagos",
+    "raceRef" : "197402"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1974,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197403"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 4,
+    "year" : 1974,
+    "circuitRef" : "jarama",
+    "raceRef" : "197404"
+  },
+  {
+    "circuitName" : "Nivelles-Baulers",
+    "round" : 5,
+    "year" : 1974,
+    "circuitRef" : "nivelles",
+    "raceRef" : "197405"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1974,
+    "circuitRef" : "monaco",
+    "raceRef" : "197406"
+  },
+  {
+    "circuitName" : "Scandinavian Raceway",
+    "round" : 7,
+    "year" : 1974,
+    "circuitRef" : "anderstorp",
+    "raceRef" : "197407"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 8,
+    "year" : 1974,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197408"
+  },
+  {
+    "circuitName" : "Dijon-Prenois",
+    "round" : 9,
+    "year" : 1974,
+    "circuitRef" : "dijon",
+    "raceRef" : "197409"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 10,
+    "year" : 1974,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "197410"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 11,
+    "year" : 1974,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "197411"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1974,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197412"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1974,
+    "circuitRef" : "monza",
+    "raceRef" : "197413"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 14,
+    "year" : 1974,
+    "circuitRef" : "mosport",
+    "raceRef" : "197414"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 15,
+    "year" : 1974,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197415"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1975,
+    "circuitRef" : "galvez",
+    "raceRef" : "197501"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1975,
+    "circuitRef" : "interlagos",
+    "raceRef" : "197502"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1975,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197503"
+  },
+  {
+    "circuitName" : "Montjuïc",
+    "round" : 4,
+    "year" : 1975,
+    "circuitRef" : "montjuic",
+    "raceRef" : "197504"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 5,
+    "year" : 1975,
+    "circuitRef" : "monaco",
+    "raceRef" : "197505"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 6,
+    "year" : 1975,
+    "circuitRef" : "zolder",
+    "raceRef" : "197506"
+  },
+  {
+    "circuitName" : "Scandinavian Raceway",
+    "round" : 7,
+    "year" : 1975,
+    "circuitRef" : "anderstorp",
+    "raceRef" : "197507"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 8,
+    "year" : 1975,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197508"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 9,
+    "year" : 1975,
+    "circuitRef" : "ricard",
+    "raceRef" : "197509"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 1975,
+    "circuitRef" : "silverstone",
+    "raceRef" : "197510"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 11,
+    "year" : 1975,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "197511"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1975,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197512"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1975,
+    "circuitRef" : "monza",
+    "raceRef" : "197513"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 14,
+    "year" : 1975,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197514"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 1,
+    "year" : 1976,
+    "circuitRef" : "interlagos",
+    "raceRef" : "197601"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 2,
+    "year" : 1976,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197602"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 3,
+    "year" : 1976,
+    "circuitRef" : "long_beach",
+    "raceRef" : "197603"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 4,
+    "year" : 1976,
+    "circuitRef" : "jarama",
+    "raceRef" : "197604"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 5,
+    "year" : 1976,
+    "circuitRef" : "zolder",
+    "raceRef" : "197605"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1976,
+    "circuitRef" : "monaco",
+    "raceRef" : "197606"
+  },
+  {
+    "circuitName" : "Scandinavian Raceway",
+    "round" : 7,
+    "year" : 1976,
+    "circuitRef" : "anderstorp",
+    "raceRef" : "197607"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 8,
+    "year" : 1976,
+    "circuitRef" : "ricard",
+    "raceRef" : "197608"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 9,
+    "year" : 1976,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "197609"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 10,
+    "year" : 1976,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "197610"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 11,
+    "year" : 1976,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197611"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 12,
+    "year" : 1976,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197612"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1976,
+    "circuitRef" : "monza",
+    "raceRef" : "197613"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 14,
+    "year" : 1976,
+    "circuitRef" : "mosport",
+    "raceRef" : "197614"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 15,
+    "year" : 1976,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197615"
+  },
+  {
+    "circuitName" : "Fuji Speedway",
+    "round" : 16,
+    "year" : 1976,
+    "circuitRef" : "fuji",
+    "raceRef" : "197616"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1977,
+    "circuitRef" : "galvez",
+    "raceRef" : "197701"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1977,
+    "circuitRef" : "interlagos",
+    "raceRef" : "197702"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1977,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197703"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 4,
+    "year" : 1977,
+    "circuitRef" : "long_beach",
+    "raceRef" : "197704"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 5,
+    "year" : 1977,
+    "circuitRef" : "jarama",
+    "raceRef" : "197705"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1977,
+    "circuitRef" : "monaco",
+    "raceRef" : "197706"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 7,
+    "year" : 1977,
+    "circuitRef" : "zolder",
+    "raceRef" : "197707"
+  },
+  {
+    "circuitName" : "Scandinavian Raceway",
+    "round" : 8,
+    "year" : 1977,
+    "circuitRef" : "anderstorp",
+    "raceRef" : "197708"
+  },
+  {
+    "circuitName" : "Dijon-Prenois",
+    "round" : 9,
+    "year" : 1977,
+    "circuitRef" : "dijon",
+    "raceRef" : "197709"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 1977,
+    "circuitRef" : "silverstone",
+    "raceRef" : "197710"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 1977,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "197711"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1977,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197712"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 13,
+    "year" : 1977,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197713"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 1977,
+    "circuitRef" : "monza",
+    "raceRef" : "197714"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 15,
+    "year" : 1977,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197715"
+  },
+  {
+    "circuitName" : "Mosport International Raceway",
+    "round" : 16,
+    "year" : 1977,
+    "circuitRef" : "mosport",
+    "raceRef" : "197716"
+  },
+  {
+    "circuitName" : "Fuji Speedway",
+    "round" : 17,
+    "year" : 1977,
+    "circuitRef" : "fuji",
+    "raceRef" : "197717"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1978,
+    "circuitRef" : "galvez",
+    "raceRef" : "197801"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 2,
+    "year" : 1978,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "197802"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1978,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197803"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 4,
+    "year" : 1978,
+    "circuitRef" : "long_beach",
+    "raceRef" : "197804"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 5,
+    "year" : 1978,
+    "circuitRef" : "monaco",
+    "raceRef" : "197805"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 6,
+    "year" : 1978,
+    "circuitRef" : "zolder",
+    "raceRef" : "197806"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 7,
+    "year" : 1978,
+    "circuitRef" : "jarama",
+    "raceRef" : "197807"
+  },
+  {
+    "circuitName" : "Scandinavian Raceway",
+    "round" : 8,
+    "year" : 1978,
+    "circuitRef" : "anderstorp",
+    "raceRef" : "197808"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 9,
+    "year" : 1978,
+    "circuitRef" : "ricard",
+    "raceRef" : "197809"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 10,
+    "year" : 1978,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "197810"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 1978,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "197811"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1978,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197812"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 13,
+    "year" : 1978,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197813"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 1978,
+    "circuitRef" : "monza",
+    "raceRef" : "197814"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 15,
+    "year" : 1978,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197815"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 16,
+    "year" : 1978,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "197816"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1979,
+    "circuitRef" : "galvez",
+    "raceRef" : "197901"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1979,
+    "circuitRef" : "interlagos",
+    "raceRef" : "197902"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1979,
+    "circuitRef" : "kyalami",
+    "raceRef" : "197903"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 4,
+    "year" : 1979,
+    "circuitRef" : "long_beach",
+    "raceRef" : "197904"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 5,
+    "year" : 1979,
+    "circuitRef" : "jarama",
+    "raceRef" : "197905"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 6,
+    "year" : 1979,
+    "circuitRef" : "zolder",
+    "raceRef" : "197906"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 7,
+    "year" : 1979,
+    "circuitRef" : "monaco",
+    "raceRef" : "197907"
+  },
+  {
+    "circuitName" : "Dijon-Prenois",
+    "round" : 8,
+    "year" : 1979,
+    "circuitRef" : "dijon",
+    "raceRef" : "197908"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1979,
+    "circuitRef" : "silverstone",
+    "raceRef" : "197909"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1979,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "197910"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 11,
+    "year" : 1979,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "197911"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 12,
+    "year" : 1979,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "197912"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1979,
+    "circuitRef" : "monza",
+    "raceRef" : "197913"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 14,
+    "year" : 1979,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "197914"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 15,
+    "year" : 1979,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "197915"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 1,
+    "year" : 1980,
+    "circuitRef" : "galvez",
+    "raceRef" : "198001"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1980,
+    "circuitRef" : "interlagos",
+    "raceRef" : "198002"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 3,
+    "year" : 1980,
+    "circuitRef" : "kyalami",
+    "raceRef" : "198003"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 4,
+    "year" : 1980,
+    "circuitRef" : "long_beach",
+    "raceRef" : "198004"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 5,
+    "year" : 1980,
+    "circuitRef" : "zolder",
+    "raceRef" : "198005"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1980,
+    "circuitRef" : "monaco",
+    "raceRef" : "198006"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 7,
+    "year" : 1980,
+    "circuitRef" : "ricard",
+    "raceRef" : "198007"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 8,
+    "year" : 1980,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "198008"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1980,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198009"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 10,
+    "year" : 1980,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198010"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 11,
+    "year" : 1980,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "198011"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 12,
+    "year" : 1980,
+    "circuitRef" : "imola",
+    "raceRef" : "198012"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 13,
+    "year" : 1980,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198013"
+  },
+  {
+    "circuitName" : "Watkins Glen",
+    "round" : 14,
+    "year" : 1980,
+    "circuitRef" : "watkins_glen",
+    "raceRef" : "198014"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 1,
+    "year" : 1981,
+    "circuitRef" : "long_beach",
+    "raceRef" : "198101"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 2,
+    "year" : 1981,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198102"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 3,
+    "year" : 1981,
+    "circuitRef" : "galvez",
+    "raceRef" : "198103"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1981,
+    "circuitRef" : "imola",
+    "raceRef" : "198104"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 5,
+    "year" : 1981,
+    "circuitRef" : "zolder",
+    "raceRef" : "198105"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1981,
+    "circuitRef" : "monaco",
+    "raceRef" : "198106"
+  },
+  {
+    "circuitName" : "Jarama",
+    "round" : 7,
+    "year" : 1981,
+    "circuitRef" : "jarama",
+    "raceRef" : "198107"
+  },
+  {
+    "circuitName" : "Dijon-Prenois",
+    "round" : 8,
+    "year" : 1981,
+    "circuitRef" : "dijon",
+    "raceRef" : "198108"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1981,
+    "circuitRef" : "silverstone",
+    "raceRef" : "198109"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1981,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198110"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 11,
+    "year" : 1981,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198111"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 12,
+    "year" : 1981,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "198112"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1981,
+    "circuitRef" : "monza",
+    "raceRef" : "198113"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 14,
+    "year" : 1981,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198114"
+  },
+  {
+    "circuitName" : "Las Vegas Street Circuit",
+    "round" : 15,
+    "year" : 1981,
+    "circuitRef" : "las_vegas",
+    "raceRef" : "198115"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1982,
+    "circuitRef" : "kyalami",
+    "raceRef" : "198201"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 2,
+    "year" : 1982,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198202"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 3,
+    "year" : 1982,
+    "circuitRef" : "long_beach",
+    "raceRef" : "198203"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1982,
+    "circuitRef" : "imola",
+    "raceRef" : "198204"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 5,
+    "year" : 1982,
+    "circuitRef" : "zolder",
+    "raceRef" : "198205"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1982,
+    "circuitRef" : "monaco",
+    "raceRef" : "198206"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 7,
+    "year" : 1982,
+    "circuitRef" : "detroit",
+    "raceRef" : "198207"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 1982,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198208"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 9,
+    "year" : 1982,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "198209"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 10,
+    "year" : 1982,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "198210"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 11,
+    "year" : 1982,
+    "circuitRef" : "ricard",
+    "raceRef" : "198211"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 1982,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198212"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 13,
+    "year" : 1982,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198213"
+  },
+  {
+    "circuitName" : "Dijon-Prenois",
+    "round" : 14,
+    "year" : 1982,
+    "circuitRef" : "dijon",
+    "raceRef" : "198214"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 15,
+    "year" : 1982,
+    "circuitRef" : "monza",
+    "raceRef" : "198215"
+  },
+  {
+    "circuitName" : "Las Vegas Street Circuit",
+    "round" : 16,
+    "year" : 1982,
+    "circuitRef" : "las_vegas",
+    "raceRef" : "198216"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1983,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198301"
+  },
+  {
+    "circuitName" : "Long Beach",
+    "round" : 2,
+    "year" : 1983,
+    "circuitRef" : "long_beach",
+    "raceRef" : "198302"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 3,
+    "year" : 1983,
+    "circuitRef" : "ricard",
+    "raceRef" : "198303"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1983,
+    "circuitRef" : "imola",
+    "raceRef" : "198304"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 5,
+    "year" : 1983,
+    "circuitRef" : "monaco",
+    "raceRef" : "198305"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 6,
+    "year" : 1983,
+    "circuitRef" : "spa",
+    "raceRef" : "198306"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 7,
+    "year" : 1983,
+    "circuitRef" : "detroit",
+    "raceRef" : "198307"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 1983,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198308"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1983,
+    "circuitRef" : "silverstone",
+    "raceRef" : "198309"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1983,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198310"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 11,
+    "year" : 1983,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198311"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 12,
+    "year" : 1983,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "198312"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1983,
+    "circuitRef" : "monza",
+    "raceRef" : "198313"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 14,
+    "year" : 1983,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "198314"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 15,
+    "year" : 1983,
+    "circuitRef" : "kyalami",
+    "raceRef" : "198315"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1984,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198401"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 2,
+    "year" : 1984,
+    "circuitRef" : "kyalami",
+    "raceRef" : "198402"
+  },
+  {
+    "circuitName" : "Zolder",
+    "round" : 3,
+    "year" : 1984,
+    "circuitRef" : "zolder",
+    "raceRef" : "198403"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1984,
+    "circuitRef" : "imola",
+    "raceRef" : "198404"
+  },
+  {
+    "circuitName" : "Dijon-Prenois",
+    "round" : 5,
+    "year" : 1984,
+    "circuitRef" : "dijon",
+    "raceRef" : "198405"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1984,
+    "circuitRef" : "monaco",
+    "raceRef" : "198406"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 1984,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198407"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 8,
+    "year" : 1984,
+    "circuitRef" : "detroit",
+    "raceRef" : "198408"
+  },
+  {
+    "circuitName" : "Fair Park",
+    "round" : 9,
+    "year" : 1984,
+    "circuitRef" : "dallas",
+    "raceRef" : "198409"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 10,
+    "year" : 1984,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "198410"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 1984,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198411"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1984,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198412"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 13,
+    "year" : 1984,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "198413"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 1984,
+    "circuitRef" : "monza",
+    "raceRef" : "198414"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 15,
+    "year" : 1984,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "198415"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 16,
+    "year" : 1984,
+    "circuitRef" : "estoril",
+    "raceRef" : "198416"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1985,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198501"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 2,
+    "year" : 1985,
+    "circuitRef" : "estoril",
+    "raceRef" : "198502"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1985,
+    "circuitRef" : "imola",
+    "raceRef" : "198503"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1985,
+    "circuitRef" : "monaco",
+    "raceRef" : "198504"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 5,
+    "year" : 1985,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198505"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 6,
+    "year" : 1985,
+    "circuitRef" : "detroit",
+    "raceRef" : "198506"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 7,
+    "year" : 1985,
+    "circuitRef" : "ricard",
+    "raceRef" : "198507"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1985,
+    "circuitRef" : "silverstone",
+    "raceRef" : "198508"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 9,
+    "year" : 1985,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "198509"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 10,
+    "year" : 1985,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198510"
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "round" : 11,
+    "year" : 1985,
+    "circuitRef" : "zandvoort",
+    "raceRef" : "198511"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1985,
+    "circuitRef" : "monza",
+    "raceRef" : "198512"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 1985,
+    "circuitRef" : "spa",
+    "raceRef" : "198513"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 14,
+    "year" : 1985,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "198514"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 15,
+    "year" : 1985,
+    "circuitRef" : "kyalami",
+    "raceRef" : "198515"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1985,
+    "circuitRef" : "adelaide",
+    "raceRef" : "198516"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1986,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198601"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 2,
+    "year" : 1986,
+    "circuitRef" : "jerez",
+    "raceRef" : "198602"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1986,
+    "circuitRef" : "imola",
+    "raceRef" : "198603"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1986,
+    "circuitRef" : "monaco",
+    "raceRef" : "198604"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 5,
+    "year" : 1986,
+    "circuitRef" : "spa",
+    "raceRef" : "198605"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 6,
+    "year" : 1986,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198606"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 7,
+    "year" : 1986,
+    "circuitRef" : "detroit",
+    "raceRef" : "198607"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 8,
+    "year" : 1986,
+    "circuitRef" : "ricard",
+    "raceRef" : "198608"
+  },
+  {
+    "circuitName" : "Brands Hatch",
+    "round" : 9,
+    "year" : 1986,
+    "circuitRef" : "brands_hatch",
+    "raceRef" : "198609"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1986,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198610"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 1986,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "198611"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 12,
+    "year" : 1986,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198612"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1986,
+    "circuitRef" : "monza",
+    "raceRef" : "198613"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 14,
+    "year" : 1986,
+    "circuitRef" : "estoril",
+    "raceRef" : "198614"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 15,
+    "year" : 1986,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "198615"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1986,
+    "circuitRef" : "adelaide",
+    "raceRef" : "198616"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1987,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198701"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 2,
+    "year" : 1987,
+    "circuitRef" : "imola",
+    "raceRef" : "198702"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 3,
+    "year" : 1987,
+    "circuitRef" : "spa",
+    "raceRef" : "198703"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1987,
+    "circuitRef" : "monaco",
+    "raceRef" : "198704"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 5,
+    "year" : 1987,
+    "circuitRef" : "detroit",
+    "raceRef" : "198705"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 6,
+    "year" : 1987,
+    "circuitRef" : "ricard",
+    "raceRef" : "198706"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 7,
+    "year" : 1987,
+    "circuitRef" : "silverstone",
+    "raceRef" : "198707"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 8,
+    "year" : 1987,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198708"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 9,
+    "year" : 1987,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "198709"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 10,
+    "year" : 1987,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "198710"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 11,
+    "year" : 1987,
+    "circuitRef" : "monza",
+    "raceRef" : "198711"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 12,
+    "year" : 1987,
+    "circuitRef" : "estoril",
+    "raceRef" : "198712"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 13,
+    "year" : 1987,
+    "circuitRef" : "jerez",
+    "raceRef" : "198713"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 14,
+    "year" : 1987,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "198714"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1987,
+    "circuitRef" : "suzuka",
+    "raceRef" : "198715"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1987,
+    "circuitRef" : "adelaide",
+    "raceRef" : "198716"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1988,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198801"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 2,
+    "year" : 1988,
+    "circuitRef" : "imola",
+    "raceRef" : "198802"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 3,
+    "year" : 1988,
+    "circuitRef" : "monaco",
+    "raceRef" : "198803"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 4,
+    "year" : 1988,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "198804"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 5,
+    "year" : 1988,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198805"
+  },
+  {
+    "circuitName" : "Detroit Street Circuit",
+    "round" : 6,
+    "year" : 1988,
+    "circuitRef" : "detroit",
+    "raceRef" : "198806"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 7,
+    "year" : 1988,
+    "circuitRef" : "ricard",
+    "raceRef" : "198807"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1988,
+    "circuitRef" : "silverstone",
+    "raceRef" : "198808"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1988,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198809"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 1988,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "198810"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 1988,
+    "circuitRef" : "spa",
+    "raceRef" : "198811"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1988,
+    "circuitRef" : "monza",
+    "raceRef" : "198812"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 13,
+    "year" : 1988,
+    "circuitRef" : "estoril",
+    "raceRef" : "198813"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 14,
+    "year" : 1988,
+    "circuitRef" : "jerez",
+    "raceRef" : "198814"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1988,
+    "circuitRef" : "suzuka",
+    "raceRef" : "198815"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1988,
+    "circuitRef" : "adelaide",
+    "raceRef" : "198816"
+  },
+  {
+    "circuitName" : "Autódromo Internacional Nelson Piquet",
+    "round" : 1,
+    "year" : 1989,
+    "circuitRef" : "jacarepagua",
+    "raceRef" : "198901"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 2,
+    "year" : 1989,
+    "circuitRef" : "imola",
+    "raceRef" : "198902"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 3,
+    "year" : 1989,
+    "circuitRef" : "monaco",
+    "raceRef" : "198903"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 4,
+    "year" : 1989,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "198904"
+  },
+  {
+    "circuitName" : "Phoenix street circuit",
+    "round" : 5,
+    "year" : 1989,
+    "circuitRef" : "phoenix",
+    "raceRef" : "198905"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 6,
+    "year" : 1989,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "198906"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 7,
+    "year" : 1989,
+    "circuitRef" : "ricard",
+    "raceRef" : "198907"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1989,
+    "circuitRef" : "silverstone",
+    "raceRef" : "198908"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1989,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "198909"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 1989,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "198910"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 1989,
+    "circuitRef" : "spa",
+    "raceRef" : "198911"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1989,
+    "circuitRef" : "monza",
+    "raceRef" : "198912"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 13,
+    "year" : 1989,
+    "circuitRef" : "estoril",
+    "raceRef" : "198913"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 14,
+    "year" : 1989,
+    "circuitRef" : "jerez",
+    "raceRef" : "198914"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1989,
+    "circuitRef" : "suzuka",
+    "raceRef" : "198915"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1989,
+    "circuitRef" : "adelaide",
+    "raceRef" : "198916"
+  },
+  {
+    "circuitName" : "Phoenix street circuit",
+    "round" : 1,
+    "year" : 1990,
+    "circuitRef" : "phoenix",
+    "raceRef" : "199001"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1990,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199002"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1990,
+    "circuitRef" : "imola",
+    "raceRef" : "199003"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1990,
+    "circuitRef" : "monaco",
+    "raceRef" : "199004"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 5,
+    "year" : 1990,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199005"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 6,
+    "year" : 1990,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "199006"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 7,
+    "year" : 1990,
+    "circuitRef" : "ricard",
+    "raceRef" : "199007"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1990,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199008"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1990,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199009"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 1990,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199010"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 1990,
+    "circuitRef" : "spa",
+    "raceRef" : "199011"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1990,
+    "circuitRef" : "monza",
+    "raceRef" : "199012"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 13,
+    "year" : 1990,
+    "circuitRef" : "estoril",
+    "raceRef" : "199013"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 14,
+    "year" : 1990,
+    "circuitRef" : "jerez",
+    "raceRef" : "199014"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1990,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199015"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1990,
+    "circuitRef" : "adelaide",
+    "raceRef" : "199016"
+  },
+  {
+    "circuitName" : "Phoenix street circuit",
+    "round" : 1,
+    "year" : 1991,
+    "circuitRef" : "phoenix",
+    "raceRef" : "199101"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1991,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199102"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1991,
+    "circuitRef" : "imola",
+    "raceRef" : "199103"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1991,
+    "circuitRef" : "monaco",
+    "raceRef" : "199104"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 5,
+    "year" : 1991,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199105"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 6,
+    "year" : 1991,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "199106"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 7,
+    "year" : 1991,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199107"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1991,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199108"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1991,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199109"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 1991,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199110"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 1991,
+    "circuitRef" : "spa",
+    "raceRef" : "199111"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1991,
+    "circuitRef" : "monza",
+    "raceRef" : "199112"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 13,
+    "year" : 1991,
+    "circuitRef" : "estoril",
+    "raceRef" : "199113"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 14,
+    "year" : 1991,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199114"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1991,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199115"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1991,
+    "circuitRef" : "adelaide",
+    "raceRef" : "199116"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1992,
+    "circuitRef" : "kyalami",
+    "raceRef" : "199201"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 2,
+    "year" : 1992,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "199202"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 3,
+    "year" : 1992,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199203"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 4,
+    "year" : 1992,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199204"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 5,
+    "year" : 1992,
+    "circuitRef" : "imola",
+    "raceRef" : "199205"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1992,
+    "circuitRef" : "monaco",
+    "raceRef" : "199206"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 1992,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199207"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 8,
+    "year" : 1992,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199208"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1992,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199209"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1992,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199210"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 1992,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199211"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 1992,
+    "circuitRef" : "spa",
+    "raceRef" : "199212"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1992,
+    "circuitRef" : "monza",
+    "raceRef" : "199213"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 14,
+    "year" : 1992,
+    "circuitRef" : "estoril",
+    "raceRef" : "199214"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1992,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199215"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1992,
+    "circuitRef" : "adelaide",
+    "raceRef" : "199216"
+  },
+  {
+    "circuitName" : "Kyalami",
+    "round" : 1,
+    "year" : 1993,
+    "circuitRef" : "kyalami",
+    "raceRef" : "199301"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1993,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199302"
+  },
+  {
+    "circuitName" : "Donington Park",
+    "round" : 3,
+    "year" : 1993,
+    "circuitRef" : "donington",
+    "raceRef" : "199303"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1993,
+    "circuitRef" : "imola",
+    "raceRef" : "199304"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 1993,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199305"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1993,
+    "circuitRef" : "monaco",
+    "raceRef" : "199306"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 1993,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199307"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 8,
+    "year" : 1993,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199308"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1993,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199309"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1993,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199310"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 1993,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199311"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 1993,
+    "circuitRef" : "spa",
+    "raceRef" : "199312"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1993,
+    "circuitRef" : "monza",
+    "raceRef" : "199313"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 14,
+    "year" : 1993,
+    "circuitRef" : "estoril",
+    "raceRef" : "199314"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1993,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199315"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1993,
+    "circuitRef" : "adelaide",
+    "raceRef" : "199316"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 1,
+    "year" : 1994,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199401"
+  },
+  {
+    "circuitName" : "Okayama International Circuit",
+    "round" : 2,
+    "year" : 1994,
+    "circuitRef" : "okayama",
+    "raceRef" : "199402"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1994,
+    "circuitRef" : "imola",
+    "raceRef" : "199403"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1994,
+    "circuitRef" : "monaco",
+    "raceRef" : "199404"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 1994,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199405"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 6,
+    "year" : 1994,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199406"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 7,
+    "year" : 1994,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199407"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1994,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199408"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1994,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199409"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 1994,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199410"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 1994,
+    "circuitRef" : "spa",
+    "raceRef" : "199411"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1994,
+    "circuitRef" : "monza",
+    "raceRef" : "199412"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 13,
+    "year" : 1994,
+    "circuitRef" : "estoril",
+    "raceRef" : "199413"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 14,
+    "year" : 1994,
+    "circuitRef" : "jerez",
+    "raceRef" : "199414"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 1994,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199415"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 16,
+    "year" : 1994,
+    "circuitRef" : "adelaide",
+    "raceRef" : "199416"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 1,
+    "year" : 1995,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199501"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 2,
+    "year" : 1995,
+    "circuitRef" : "galvez",
+    "raceRef" : "199502"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1995,
+    "circuitRef" : "imola",
+    "raceRef" : "199503"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 4,
+    "year" : 1995,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199504"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 5,
+    "year" : 1995,
+    "circuitRef" : "monaco",
+    "raceRef" : "199505"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 6,
+    "year" : 1995,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199506"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 7,
+    "year" : 1995,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199507"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1995,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199508"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 9,
+    "year" : 1995,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199509"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 1995,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199510"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 1995,
+    "circuitRef" : "spa",
+    "raceRef" : "199511"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 1995,
+    "circuitRef" : "monza",
+    "raceRef" : "199512"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 13,
+    "year" : 1995,
+    "circuitRef" : "estoril",
+    "raceRef" : "199513"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 14,
+    "year" : 1995,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "199514"
+  },
+  {
+    "circuitName" : "Okayama International Circuit",
+    "round" : 15,
+    "year" : 1995,
+    "circuitRef" : "okayama",
+    "raceRef" : "199515"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 1995,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199516"
+  },
+  {
+    "circuitName" : "Adelaide Street Circuit",
+    "round" : 17,
+    "year" : 1995,
+    "circuitRef" : "adelaide",
+    "raceRef" : "199517"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 1996,
+    "circuitRef" : "albert_park",
+    "raceRef" : "199601"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1996,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199602"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 3,
+    "year" : 1996,
+    "circuitRef" : "galvez",
+    "raceRef" : "199603"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 4,
+    "year" : 1996,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "199604"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 5,
+    "year" : 1996,
+    "circuitRef" : "imola",
+    "raceRef" : "199605"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1996,
+    "circuitRef" : "monaco",
+    "raceRef" : "199606"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 7,
+    "year" : 1996,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199607"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 1996,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199608"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 9,
+    "year" : 1996,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199609"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 1996,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199610"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 1996,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199611"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 12,
+    "year" : 1996,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199612"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 1996,
+    "circuitRef" : "spa",
+    "raceRef" : "199613"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 1996,
+    "circuitRef" : "monza",
+    "raceRef" : "199614"
+  },
+  {
+    "circuitName" : "Autódromo do Estoril",
+    "round" : 15,
+    "year" : 1996,
+    "circuitRef" : "estoril",
+    "raceRef" : "199615"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 1996,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199616"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 1997,
+    "circuitRef" : "albert_park",
+    "raceRef" : "199701"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1997,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199702"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 3,
+    "year" : 1997,
+    "circuitRef" : "galvez",
+    "raceRef" : "199703"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1997,
+    "circuitRef" : "imola",
+    "raceRef" : "199704"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 5,
+    "year" : 1997,
+    "circuitRef" : "monaco",
+    "raceRef" : "199705"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 6,
+    "year" : 1997,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199706"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 1997,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199707"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 8,
+    "year" : 1997,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199708"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1997,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199709"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1997,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199710"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 1997,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199711"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 1997,
+    "circuitRef" : "spa",
+    "raceRef" : "199712"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1997,
+    "circuitRef" : "monza",
+    "raceRef" : "199713"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 14,
+    "year" : 1997,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "199714"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 15,
+    "year" : 1997,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "199715"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 1997,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199716"
+  },
+  {
+    "circuitName" : "Circuito de Jerez",
+    "round" : 17,
+    "year" : 1997,
+    "circuitRef" : "jerez",
+    "raceRef" : "199717"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 1998,
+    "circuitRef" : "albert_park",
+    "raceRef" : "199801"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1998,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199802"
+  },
+  {
+    "circuitName" : "Autódromo Juan y Oscar Gálvez",
+    "round" : 3,
+    "year" : 1998,
+    "circuitRef" : "galvez",
+    "raceRef" : "199803"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 1998,
+    "circuitRef" : "imola",
+    "raceRef" : "199804"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 1998,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199805"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 1998,
+    "circuitRef" : "monaco",
+    "raceRef" : "199806"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 1998,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199807"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 8,
+    "year" : 1998,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199808"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 1998,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199809"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 10,
+    "year" : 1998,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "199810"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 1998,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199811"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 12,
+    "year" : 1998,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199812"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 1998,
+    "circuitRef" : "spa",
+    "raceRef" : "199813"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 1998,
+    "circuitRef" : "monza",
+    "raceRef" : "199814"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 15,
+    "year" : 1998,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "199815"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 1998,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199816"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 1999,
+    "circuitRef" : "albert_park",
+    "raceRef" : "199901"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 1999,
+    "circuitRef" : "interlagos",
+    "raceRef" : "199902"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 1999,
+    "circuitRef" : "imola",
+    "raceRef" : "199903"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 4,
+    "year" : 1999,
+    "circuitRef" : "monaco",
+    "raceRef" : "199904"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 1999,
+    "circuitRef" : "catalunya",
+    "raceRef" : "199905"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 6,
+    "year" : 1999,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "199906"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 7,
+    "year" : 1999,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "199907"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 1999,
+    "circuitRef" : "silverstone",
+    "raceRef" : "199908"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 9,
+    "year" : 1999,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "199909"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 1999,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "199910"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 1999,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "199911"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 1999,
+    "circuitRef" : "spa",
+    "raceRef" : "199912"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 1999,
+    "circuitRef" : "monza",
+    "raceRef" : "199913"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 14,
+    "year" : 1999,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "199914"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 15,
+    "year" : 1999,
+    "circuitRef" : "sepang",
+    "raceRef" : "199915"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 1999,
+    "circuitRef" : "suzuka",
+    "raceRef" : "199916"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2000,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200001"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 2,
+    "year" : 2000,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200002"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 3,
+    "year" : 2000,
+    "circuitRef" : "imola",
+    "raceRef" : "200003"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 4,
+    "year" : 2000,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200004"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2000,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200005"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 6,
+    "year" : 2000,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200006"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 7,
+    "year" : 2000,
+    "circuitRef" : "monaco",
+    "raceRef" : "200007"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2000,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200008"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 9,
+    "year" : 2000,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200009"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 10,
+    "year" : 2000,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "200010"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 2000,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200011"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 12,
+    "year" : 2000,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200012"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 2000,
+    "circuitRef" : "spa",
+    "raceRef" : "200013"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2000,
+    "circuitRef" : "monza",
+    "raceRef" : "200014"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 15,
+    "year" : 2000,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200015"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 2000,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200016"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 17,
+    "year" : 2000,
+    "circuitRef" : "sepang",
+    "raceRef" : "200017"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2001,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200101"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2001,
+    "circuitRef" : "sepang",
+    "raceRef" : "200102"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 3,
+    "year" : 2001,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200103"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 2001,
+    "circuitRef" : "imola",
+    "raceRef" : "200104"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2001,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200105"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 6,
+    "year" : 2001,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "200106"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 7,
+    "year" : 2001,
+    "circuitRef" : "monaco",
+    "raceRef" : "200107"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2001,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200108"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 9,
+    "year" : 2001,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200109"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 10,
+    "year" : 2001,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200110"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 11,
+    "year" : 2001,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200111"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2001,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200112"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 13,
+    "year" : 2001,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200113"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 14,
+    "year" : 2001,
+    "circuitRef" : "spa",
+    "raceRef" : "200114"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 15,
+    "year" : 2001,
+    "circuitRef" : "monza",
+    "raceRef" : "200115"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 16,
+    "year" : 2001,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200116"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2001,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200117"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2002,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200201"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2002,
+    "circuitRef" : "sepang",
+    "raceRef" : "200202"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 3,
+    "year" : 2002,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200203"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 2002,
+    "circuitRef" : "imola",
+    "raceRef" : "200204"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2002,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200205"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 6,
+    "year" : 2002,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "200206"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 7,
+    "year" : 2002,
+    "circuitRef" : "monaco",
+    "raceRef" : "200207"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2002,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200208"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 9,
+    "year" : 2002,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200209"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 2002,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200210"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 11,
+    "year" : 2002,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200211"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2002,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200212"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 13,
+    "year" : 2002,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200213"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 14,
+    "year" : 2002,
+    "circuitRef" : "spa",
+    "raceRef" : "200214"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 15,
+    "year" : 2002,
+    "circuitRef" : "monza",
+    "raceRef" : "200215"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 16,
+    "year" : 2002,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200216"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2002,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200217"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2003,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200301"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2003,
+    "circuitRef" : "sepang",
+    "raceRef" : "200302"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 3,
+    "year" : 2003,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200303"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 2003,
+    "circuitRef" : "imola",
+    "raceRef" : "200304"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2003,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200305"
+  },
+  {
+    "circuitName" : "A1-Ring",
+    "round" : 6,
+    "year" : 2003,
+    "circuitRef" : "osterreichring",
+    "raceRef" : "200306"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 7,
+    "year" : 2003,
+    "circuitRef" : "monaco",
+    "raceRef" : "200307"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2003,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200308"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 9,
+    "year" : 2003,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200309"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 10,
+    "year" : 2003,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200310"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 11,
+    "year" : 2003,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200311"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2003,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200312"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 13,
+    "year" : 2003,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200313"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2003,
+    "circuitRef" : "monza",
+    "raceRef" : "200314"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 15,
+    "year" : 2003,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200315"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 2003,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200316"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2004,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200401"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2004,
+    "circuitRef" : "sepang",
+    "raceRef" : "200402"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 3,
+    "year" : 2004,
+    "circuitRef" : "bahrain",
+    "raceRef" : "200403"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 2004,
+    "circuitRef" : "imola",
+    "raceRef" : "200404"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2004,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200405"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2004,
+    "circuitRef" : "monaco",
+    "raceRef" : "200406"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 2004,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200407"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2004,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200408"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 9,
+    "year" : 2004,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200409"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 10,
+    "year" : 2004,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200410"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 11,
+    "year" : 2004,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200411"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2004,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200412"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 13,
+    "year" : 2004,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200413"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 14,
+    "year" : 2004,
+    "circuitRef" : "spa",
+    "raceRef" : "200414"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 15,
+    "year" : 2004,
+    "circuitRef" : "monza",
+    "raceRef" : "200415"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 16,
+    "year" : 2004,
+    "circuitRef" : "shanghai",
+    "raceRef" : "200416"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2004,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200417"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 18,
+    "year" : 2004,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200418"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2005,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200501"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2005,
+    "circuitRef" : "sepang",
+    "raceRef" : "200502"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 3,
+    "year" : 2005,
+    "circuitRef" : "bahrain",
+    "raceRef" : "200503"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 2005,
+    "circuitRef" : "imola",
+    "raceRef" : "200504"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2005,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200505"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2005,
+    "circuitRef" : "monaco",
+    "raceRef" : "200506"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 7,
+    "year" : 2005,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200507"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2005,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200508"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 9,
+    "year" : 2005,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200509"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 10,
+    "year" : 2005,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200510"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 11,
+    "year" : 2005,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200511"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2005,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200512"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 13,
+    "year" : 2005,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200513"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 14,
+    "year" : 2005,
+    "circuitRef" : "istanbul",
+    "raceRef" : "200514"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 15,
+    "year" : 2005,
+    "circuitRef" : "monza",
+    "raceRef" : "200515"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 16,
+    "year" : 2005,
+    "circuitRef" : "spa",
+    "raceRef" : "200516"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 17,
+    "year" : 2005,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200517"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 18,
+    "year" : 2005,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200518"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 19,
+    "year" : 2005,
+    "circuitRef" : "shanghai",
+    "raceRef" : "200519"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 1,
+    "year" : 2006,
+    "circuitRef" : "bahrain",
+    "raceRef" : "200601"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2006,
+    "circuitRef" : "sepang",
+    "raceRef" : "200602"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 3,
+    "year" : 2006,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200603"
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "round" : 4,
+    "year" : 2006,
+    "circuitRef" : "imola",
+    "raceRef" : "200604"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 5,
+    "year" : 2006,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200605"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 6,
+    "year" : 2006,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200606"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 7,
+    "year" : 2006,
+    "circuitRef" : "monaco",
+    "raceRef" : "200607"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 2006,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200608"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 9,
+    "year" : 2006,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200609"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 10,
+    "year" : 2006,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200610"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 11,
+    "year" : 2006,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200611"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2006,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200612"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 13,
+    "year" : 2006,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200613"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 14,
+    "year" : 2006,
+    "circuitRef" : "istanbul",
+    "raceRef" : "200614"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 15,
+    "year" : 2006,
+    "circuitRef" : "monza",
+    "raceRef" : "200615"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 16,
+    "year" : 2006,
+    "circuitRef" : "shanghai",
+    "raceRef" : "200616"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2006,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200617"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 18,
+    "year" : 2006,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200618"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2007,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200701"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2007,
+    "circuitRef" : "sepang",
+    "raceRef" : "200702"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 3,
+    "year" : 2007,
+    "circuitRef" : "bahrain",
+    "raceRef" : "200703"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 4,
+    "year" : 2007,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200704"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 5,
+    "year" : 2007,
+    "circuitRef" : "monaco",
+    "raceRef" : "200705"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 6,
+    "year" : 2007,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200706"
+  },
+  {
+    "circuitName" : "Indianapolis Motor Speedway",
+    "round" : 7,
+    "year" : 2007,
+    "circuitRef" : "indianapolis",
+    "raceRef" : "200707"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 8,
+    "year" : 2007,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200708"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 2007,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200709"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 10,
+    "year" : 2007,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200710"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2007,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200711"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 12,
+    "year" : 2007,
+    "circuitRef" : "istanbul",
+    "raceRef" : "200712"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 2007,
+    "circuitRef" : "monza",
+    "raceRef" : "200713"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 14,
+    "year" : 2007,
+    "circuitRef" : "spa",
+    "raceRef" : "200714"
+  },
+  {
+    "circuitName" : "Fuji Speedway",
+    "round" : 15,
+    "year" : 2007,
+    "circuitRef" : "fuji",
+    "raceRef" : "200715"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 16,
+    "year" : 2007,
+    "circuitRef" : "shanghai",
+    "raceRef" : "200716"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 17,
+    "year" : 2007,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200717"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2008,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200801"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2008,
+    "circuitRef" : "sepang",
+    "raceRef" : "200802"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 3,
+    "year" : 2008,
+    "circuitRef" : "bahrain",
+    "raceRef" : "200803"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 4,
+    "year" : 2008,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200804"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 5,
+    "year" : 2008,
+    "circuitRef" : "istanbul",
+    "raceRef" : "200805"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2008,
+    "circuitRef" : "monaco",
+    "raceRef" : "200806"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2008,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "200807"
+  },
+  {
+    "circuitName" : "Circuit de Nevers Magny-Cours",
+    "round" : 8,
+    "year" : 2008,
+    "circuitRef" : "magny_cours",
+    "raceRef" : "200808"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 2008,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200809"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 2008,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "200810"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2008,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200811"
+  },
+  {
+    "circuitName" : "Valencia Street Circuit",
+    "round" : 12,
+    "year" : 2008,
+    "circuitRef" : "valencia",
+    "raceRef" : "200812"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 2008,
+    "circuitRef" : "spa",
+    "raceRef" : "200813"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2008,
+    "circuitRef" : "monza",
+    "raceRef" : "200814"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 15,
+    "year" : 2008,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "200815"
+  },
+  {
+    "circuitName" : "Fuji Speedway",
+    "round" : 16,
+    "year" : 2008,
+    "circuitRef" : "fuji",
+    "raceRef" : "200816"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 17,
+    "year" : 2008,
+    "circuitRef" : "shanghai",
+    "raceRef" : "200817"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 18,
+    "year" : 2008,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200818"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2009,
+    "circuitRef" : "albert_park",
+    "raceRef" : "200901"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2009,
+    "circuitRef" : "sepang",
+    "raceRef" : "200902"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2009,
+    "circuitRef" : "shanghai",
+    "raceRef" : "200903"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 4,
+    "year" : 2009,
+    "circuitRef" : "bahrain",
+    "raceRef" : "200904"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2009,
+    "circuitRef" : "catalunya",
+    "raceRef" : "200905"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2009,
+    "circuitRef" : "monaco",
+    "raceRef" : "200906"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 7,
+    "year" : 2009,
+    "circuitRef" : "istanbul",
+    "raceRef" : "200907"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 2009,
+    "circuitRef" : "silverstone",
+    "raceRef" : "200908"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 9,
+    "year" : 2009,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "200909"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 2009,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "200910"
+  },
+  {
+    "circuitName" : "Valencia Street Circuit",
+    "round" : 11,
+    "year" : 2009,
+    "circuitRef" : "valencia",
+    "raceRef" : "200911"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 2009,
+    "circuitRef" : "spa",
+    "raceRef" : "200912"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 2009,
+    "circuitRef" : "monza",
+    "raceRef" : "200913"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 14,
+    "year" : 2009,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "200914"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 2009,
+    "circuitRef" : "suzuka",
+    "raceRef" : "200915"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 16,
+    "year" : 2009,
+    "circuitRef" : "interlagos",
+    "raceRef" : "200916"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 17,
+    "year" : 2009,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "200917"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 1,
+    "year" : 2010,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201001"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 2,
+    "year" : 2010,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201002"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 3,
+    "year" : 2010,
+    "circuitRef" : "sepang",
+    "raceRef" : "201003"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 4,
+    "year" : 2010,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201004"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2010,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201005"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2010,
+    "circuitRef" : "monaco",
+    "raceRef" : "201006"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 7,
+    "year" : 2010,
+    "circuitRef" : "istanbul",
+    "raceRef" : "201007"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 8,
+    "year" : 2010,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201008"
+  },
+  {
+    "circuitName" : "Valencia Street Circuit",
+    "round" : 9,
+    "year" : 2010,
+    "circuitRef" : "valencia",
+    "raceRef" : "201009"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 2010,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201010"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 2010,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "201011"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 12,
+    "year" : 2010,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201012"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 2010,
+    "circuitRef" : "spa",
+    "raceRef" : "201013"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2010,
+    "circuitRef" : "monza",
+    "raceRef" : "201014"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 15,
+    "year" : 2010,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201015"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 2010,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201016"
+  },
+  {
+    "circuitName" : "Korean International Circuit",
+    "round" : 17,
+    "year" : 2010,
+    "circuitRef" : "yeongam",
+    "raceRef" : "201017"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 18,
+    "year" : 2010,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201018"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 19,
+    "year" : 2010,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201019"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2011,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201101"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2011,
+    "circuitRef" : "sepang",
+    "raceRef" : "201102"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2011,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201103"
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "round" : 4,
+    "year" : 2011,
+    "circuitRef" : "istanbul",
+    "raceRef" : "201104"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2011,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201105"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2011,
+    "circuitRef" : "monaco",
+    "raceRef" : "201106"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2011,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201107"
+  },
+  {
+    "circuitName" : "Valencia Street Circuit",
+    "round" : 8,
+    "year" : 2011,
+    "circuitRef" : "valencia",
+    "raceRef" : "201108"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 2011,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201109"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 10,
+    "year" : 2011,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "201110"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2011,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201111"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 2011,
+    "circuitRef" : "spa",
+    "raceRef" : "201112"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 2011,
+    "circuitRef" : "monza",
+    "raceRef" : "201113"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 14,
+    "year" : 2011,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201114"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 2011,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201115"
+  },
+  {
+    "circuitName" : "Korean International Circuit",
+    "round" : 16,
+    "year" : 2011,
+    "circuitRef" : "yeongam",
+    "raceRef" : "201116"
+  },
+  {
+    "circuitName" : "Buddh International Circuit",
+    "round" : 17,
+    "year" : 2011,
+    "circuitRef" : "buddh",
+    "raceRef" : "201117"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 18,
+    "year" : 2011,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201118"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 19,
+    "year" : 2011,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201119"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2012,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201201"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2012,
+    "circuitRef" : "sepang",
+    "raceRef" : "201202"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2012,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201203"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 4,
+    "year" : 2012,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201204"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2012,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201205"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2012,
+    "circuitRef" : "monaco",
+    "raceRef" : "201206"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2012,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201207"
+  },
+  {
+    "circuitName" : "Valencia Street Circuit",
+    "round" : 8,
+    "year" : 2012,
+    "circuitRef" : "valencia",
+    "raceRef" : "201208"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 2012,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201209"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 2012,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "201210"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2012,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201211"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 2012,
+    "circuitRef" : "spa",
+    "raceRef" : "201212"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 2012,
+    "circuitRef" : "monza",
+    "raceRef" : "201213"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 14,
+    "year" : 2012,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201214"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 2012,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201215"
+  },
+  {
+    "circuitName" : "Korean International Circuit",
+    "round" : 16,
+    "year" : 2012,
+    "circuitRef" : "yeongam",
+    "raceRef" : "201216"
+  },
+  {
+    "circuitName" : "Buddh International Circuit",
+    "round" : 17,
+    "year" : 2012,
+    "circuitRef" : "buddh",
+    "raceRef" : "201217"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 18,
+    "year" : 2012,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201218"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 19,
+    "year" : 2012,
+    "circuitRef" : "americas",
+    "raceRef" : "201219"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 20,
+    "year" : 2012,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201220"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2013,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201301"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2013,
+    "circuitRef" : "sepang",
+    "raceRef" : "201302"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2013,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201303"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 4,
+    "year" : 2013,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201304"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2013,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201305"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2013,
+    "circuitRef" : "monaco",
+    "raceRef" : "201306"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2013,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201307"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 8,
+    "year" : 2013,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201308"
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "round" : 9,
+    "year" : 2013,
+    "circuitRef" : "nurburgring",
+    "raceRef" : "201309"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 2013,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201310"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 2013,
+    "circuitRef" : "spa",
+    "raceRef" : "201311"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 2013,
+    "circuitRef" : "monza",
+    "raceRef" : "201312"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 13,
+    "year" : 2013,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201313"
+  },
+  {
+    "circuitName" : "Korean International Circuit",
+    "round" : 14,
+    "year" : 2013,
+    "circuitRef" : "yeongam",
+    "raceRef" : "201314"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 2013,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201315"
+  },
+  {
+    "circuitName" : "Buddh International Circuit",
+    "round" : 16,
+    "year" : 2013,
+    "circuitRef" : "buddh",
+    "raceRef" : "201316"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 17,
+    "year" : 2013,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201317"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 18,
+    "year" : 2013,
+    "circuitRef" : "americas",
+    "raceRef" : "201318"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 19,
+    "year" : 2013,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201319"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2014,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201401"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2014,
+    "circuitRef" : "sepang",
+    "raceRef" : "201402"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 3,
+    "year" : 2014,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201403"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 4,
+    "year" : 2014,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201404"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2014,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201405"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2014,
+    "circuitRef" : "monaco",
+    "raceRef" : "201406"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2014,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201407"
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "round" : 8,
+    "year" : 2014,
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "201408"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 2014,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201409"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 10,
+    "year" : 2014,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "201410"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2014,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201411"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 2014,
+    "circuitRef" : "spa",
+    "raceRef" : "201412"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 2014,
+    "circuitRef" : "monza",
+    "raceRef" : "201413"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 14,
+    "year" : 2014,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201414"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 15,
+    "year" : 2014,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201415"
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "round" : 16,
+    "year" : 2014,
+    "circuitRef" : "sochi",
+    "raceRef" : "201416"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 17,
+    "year" : 2014,
+    "circuitRef" : "americas",
+    "raceRef" : "201417"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 18,
+    "year" : 2014,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201418"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 19,
+    "year" : 2014,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201419"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2015,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201501"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 2,
+    "year" : 2015,
+    "circuitRef" : "sepang",
+    "raceRef" : "201502"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2015,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201503"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 4,
+    "year" : 2015,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201504"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2015,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201505"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2015,
+    "circuitRef" : "monaco",
+    "raceRef" : "201506"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2015,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201507"
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "round" : 8,
+    "year" : 2015,
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "201508"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 9,
+    "year" : 2015,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201509"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 10,
+    "year" : 2015,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201510"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 11,
+    "year" : 2015,
+    "circuitRef" : "spa",
+    "raceRef" : "201511"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 12,
+    "year" : 2015,
+    "circuitRef" : "monza",
+    "raceRef" : "201512"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 13,
+    "year" : 2015,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201513"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 14,
+    "year" : 2015,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201514"
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "round" : 15,
+    "year" : 2015,
+    "circuitRef" : "sochi",
+    "raceRef" : "201515"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 16,
+    "year" : 2015,
+    "circuitRef" : "americas",
+    "raceRef" : "201516"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 17,
+    "year" : 2015,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "201517"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 18,
+    "year" : 2015,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201518"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 19,
+    "year" : 2015,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201519"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2016,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201601"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 2,
+    "year" : 2016,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201602"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2016,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201603"
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "round" : 4,
+    "year" : 2016,
+    "circuitRef" : "sochi",
+    "raceRef" : "201604"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2016,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201605"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2016,
+    "circuitRef" : "monaco",
+    "raceRef" : "201606"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2016,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201607"
+  },
+  {
+    "circuitName" : "Baku City Circuit",
+    "round" : 8,
+    "year" : 2016,
+    "circuitRef" : "BAK",
+    "raceRef" : "201608"
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "round" : 9,
+    "year" : 2016,
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "201609"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 2016,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201610"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2016,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201611"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 12,
+    "year" : 2016,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "201612"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 2016,
+    "circuitRef" : "spa",
+    "raceRef" : "201613"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2016,
+    "circuitRef" : "monza",
+    "raceRef" : "201614"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 15,
+    "year" : 2016,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201615"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 16,
+    "year" : 2016,
+    "circuitRef" : "sepang",
+    "raceRef" : "201616"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2016,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201617"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 18,
+    "year" : 2016,
+    "circuitRef" : "americas",
+    "raceRef" : "201618"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 19,
+    "year" : 2016,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "201619"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 20,
+    "year" : 2016,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201620"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 21,
+    "year" : 2016,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201621"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2017,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201701"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 2,
+    "year" : 2017,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201702"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 3,
+    "year" : 2017,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201703"
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "round" : 4,
+    "year" : 2017,
+    "circuitRef" : "sochi",
+    "raceRef" : "201704"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2017,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201705"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2017,
+    "circuitRef" : "monaco",
+    "raceRef" : "201706"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2017,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201707"
+  },
+  {
+    "circuitName" : "Baku City Circuit",
+    "round" : 8,
+    "year" : 2017,
+    "circuitRef" : "BAK",
+    "raceRef" : "201708"
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "round" : 9,
+    "year" : 2017,
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "201709"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 2017,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201710"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 11,
+    "year" : 2017,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201711"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 12,
+    "year" : 2017,
+    "circuitRef" : "spa",
+    "raceRef" : "201712"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 13,
+    "year" : 2017,
+    "circuitRef" : "monza",
+    "raceRef" : "201713"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 14,
+    "year" : 2017,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201714"
+  },
+  {
+    "circuitName" : "Sepang International Circuit",
+    "round" : 15,
+    "year" : 2017,
+    "circuitRef" : "sepang",
+    "raceRef" : "201715"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 16,
+    "year" : 2017,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201716"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 17,
+    "year" : 2017,
+    "circuitRef" : "americas",
+    "raceRef" : "201717"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 18,
+    "year" : 2017,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "201718"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 19,
+    "year" : 2017,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201719"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 20,
+    "year" : 2017,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201720"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2018,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201801"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 2,
+    "year" : 2018,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201802"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2018,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201803"
+  },
+  {
+    "circuitName" : "Baku City Circuit",
+    "round" : 4,
+    "year" : 2018,
+    "circuitRef" : "BAK",
+    "raceRef" : "201804"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2018,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201805"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2018,
+    "circuitRef" : "monaco",
+    "raceRef" : "201806"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2018,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201807"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 8,
+    "year" : 2018,
+    "circuitRef" : "ricard",
+    "raceRef" : "201808"
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "round" : 9,
+    "year" : 2018,
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "201809"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 2018,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201810"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 2018,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "201811"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 12,
+    "year" : 2018,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201812"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 2018,
+    "circuitRef" : "spa",
+    "raceRef" : "201813"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2018,
+    "circuitRef" : "monza",
+    "raceRef" : "201814"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 15,
+    "year" : 2018,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201815"
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "round" : 16,
+    "year" : 2018,
+    "circuitRef" : "sochi",
+    "raceRef" : "201816"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2018,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201817"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 18,
+    "year" : 2018,
+    "circuitRef" : "americas",
+    "raceRef" : "201818"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 19,
+    "year" : 2018,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "201819"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 20,
+    "year" : 2018,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201820"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 21,
+    "year" : 2018,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201821"
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "round" : 1,
+    "year" : 2019,
+    "circuitRef" : "albert_park",
+    "raceRef" : "201901"
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "round" : 2,
+    "year" : 2019,
+    "circuitRef" : "bahrain",
+    "raceRef" : "201902"
+  },
+  {
+    "circuitName" : "Shanghai International Circuit",
+    "round" : 3,
+    "year" : 2019,
+    "circuitRef" : "shanghai",
+    "raceRef" : "201903"
+  },
+  {
+    "circuitName" : "Baku City Circuit",
+    "round" : 4,
+    "year" : 2019,
+    "circuitRef" : "BAK",
+    "raceRef" : "201904"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 5,
+    "year" : 2019,
+    "circuitRef" : "catalunya",
+    "raceRef" : "201905"
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "round" : 6,
+    "year" : 2019,
+    "circuitRef" : "monaco",
+    "raceRef" : "201906"
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "round" : 7,
+    "year" : 2019,
+    "circuitRef" : "villeneuve",
+    "raceRef" : "201907"
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "round" : 8,
+    "year" : 2019,
+    "circuitRef" : "ricard",
+    "raceRef" : "201908"
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "round" : 9,
+    "year" : 2019,
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "201909"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 10,
+    "year" : 2019,
+    "circuitRef" : "silverstone",
+    "raceRef" : "201910"
+  },
+  {
+    "circuitName" : "Hockenheimring",
+    "round" : 11,
+    "year" : 2019,
+    "circuitRef" : "hockenheimring",
+    "raceRef" : "201911"
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "round" : 12,
+    "year" : 2019,
+    "circuitRef" : "hungaroring",
+    "raceRef" : "201912"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 13,
+    "year" : 2019,
+    "circuitRef" : "spa",
+    "raceRef" : "201913"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 14,
+    "year" : 2019,
+    "circuitRef" : "monza",
+    "raceRef" : "201914"
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "round" : 15,
+    "year" : 2019,
+    "circuitRef" : "marina_bay",
+    "raceRef" : "201915"
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "round" : 16,
+    "year" : 2019,
+    "circuitRef" : "sochi",
+    "raceRef" : "201916"
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "round" : 17,
+    "year" : 2019,
+    "circuitRef" : "suzuka",
+    "raceRef" : "201917"
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "round" : 18,
+    "year" : 2019,
+    "circuitRef" : "rodriguez",
+    "raceRef" : "201918"
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "round" : 19,
+    "year" : 2019,
+    "circuitRef" : "americas",
+    "raceRef" : "201919"
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "round" : 20,
+    "year" : 2019,
+    "circuitRef" : "interlagos",
+    "raceRef" : "201920"
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "round" : 21,
+    "year" : 2019,
+    "circuitRef" : "yas_marina",
+    "raceRef" : "201921"
+  }
+]
