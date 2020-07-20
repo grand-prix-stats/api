@@ -10060,87 +10060,188 @@
     "raceRef" : "201909"
   },
   {
-    "circuitName" : "Silverstone Circuit",
+    "winningConstructorName" : "Mercedes",
     "round" : 10,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
     "year" : 2019,
+    "circuitName" : "Silverstone Circuit",
     "circuitRef" : "silverstone",
     "raceRef" : "201910"
   },
   {
-    "circuitName" : "Hockenheimring",
+    "winningConstructorName" : "Red Bull",
     "round" : 11,
+    "winningConstructorColor" : "#021F48",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2019,
+    "circuitName" : "Hockenheimring",
     "circuitRef" : "hockenheimring",
     "raceRef" : "201911"
   },
   {
-    "circuitName" : "Hungaroring",
+    "winningConstructorName" : "Mercedes",
     "round" : 12,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
     "year" : 2019,
+    "circuitName" : "Hungaroring",
     "circuitRef" : "hungaroring",
     "raceRef" : "201912"
   },
   {
-    "circuitName" : "Circuit de Spa-Francorchamps",
+    "winningConstructorName" : "Ferrari",
     "round" : 13,
+    "winningConstructorColor" : "#E00D19",
+    "winningDriverRef" : "leclerc",
     "year" : 2019,
+    "circuitName" : "Circuit de Spa-Francorchamps",
     "circuitRef" : "spa",
     "raceRef" : "201913"
   },
   {
-    "circuitName" : "Autodromo Nazionale di Monza",
+    "winningConstructorName" : "Ferrari",
     "round" : 14,
+    "winningConstructorColor" : "#E00D19",
+    "winningDriverRef" : "leclerc",
     "year" : 2019,
+    "circuitName" : "Autodromo Nazionale di Monza",
     "circuitRef" : "monza",
     "raceRef" : "201914"
   },
   {
-    "circuitName" : "Marina Bay Street Circuit",
+    "winningConstructorName" : "Ferrari",
     "round" : 15,
+    "winningConstructorColor" : "#E00D19",
+    "winningDriverRef" : "vettel",
     "year" : 2019,
+    "circuitName" : "Marina Bay Street Circuit",
     "circuitRef" : "marina_bay",
     "raceRef" : "201915"
   },
   {
-    "circuitName" : "Sochi Autodrom",
+    "winningConstructorName" : "Mercedes",
     "round" : 16,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
     "year" : 2019,
+    "circuitName" : "Sochi Autodrom",
     "circuitRef" : "sochi",
     "raceRef" : "201916"
   },
   {
-    "circuitName" : "Suzuka Circuit",
+    "winningConstructorName" : "Mercedes",
     "round" : 17,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "bottas",
     "year" : 2019,
+    "circuitName" : "Suzuka Circuit",
     "circuitRef" : "suzuka",
     "raceRef" : "201917"
   },
   {
-    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "winningConstructorName" : "Mercedes",
     "round" : 18,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
     "year" : 2019,
+    "circuitName" : "Autódromo Hermanos Rodríguez",
     "circuitRef" : "rodriguez",
     "raceRef" : "201918"
   },
   {
-    "circuitName" : "Circuit of the Americas",
+    "winningConstructorName" : "Mercedes",
     "round" : 19,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "bottas",
     "year" : 2019,
+    "circuitName" : "Circuit of the Americas",
     "circuitRef" : "americas",
     "raceRef" : "201919"
   },
   {
-    "circuitName" : "Autódromo José Carlos Pace",
+    "winningConstructorName" : "Red Bull",
     "round" : 20,
+    "winningConstructorColor" : "#021F48",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2019,
+    "circuitName" : "Autódromo José Carlos Pace",
     "circuitRef" : "interlagos",
     "raceRef" : "201920"
   },
   {
-    "circuitName" : "Yas Marina Circuit",
+    "winningConstructorName" : "Mercedes",
     "round" : 21,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
     "year" : 2019,
+    "circuitName" : "Yas Marina Circuit",
     "circuitRef" : "yas_marina",
     "raceRef" : "201921"
+  },
+  {
+    "winningConstructorName" : "Mercedes",
+    "round" : 1,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "bottas",
+    "year" : 2020,
+    "circuitName" : "Red Bull Ring",
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "202001"
+  },
+  {
+    "winningConstructorName" : "Mercedes",
+    "round" : 2,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
+    "year" : 2020,
+    "circuitName" : "Red Bull Ring",
+    "circuitRef" : "red_bull_ring",
+    "raceRef" : "202002"
+  },
+  {
+    "winningConstructorName" : "Mercedes",
+    "round" : 3,
+    "winningConstructorColor" : "#18A19B",
+    "winningDriverRef" : "hamilton",
+    "year" : 2020,
+    "circuitName" : "Hungaroring",
+    "circuitRef" : "hungaroring",
+    "raceRef" : "202003"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 4,
+    "year" : 2020,
+    "circuitRef" : "silverstone",
+    "raceRef" : "202004"
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "round" : 5,
+    "year" : 2020,
+    "circuitRef" : "silverstone",
+    "raceRef" : "202005"
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "round" : 6,
+    "year" : 2020,
+    "circuitRef" : "catalunya",
+    "raceRef" : "202006"
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "round" : 7,
+    "year" : 2020,
+    "circuitRef" : "spa",
+    "raceRef" : "202007"
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "round" : 8,
+    "year" : 2020,
+    "circuitRef" : "monza",
+    "raceRef" : "202008"
   }
 ]

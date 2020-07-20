@@ -544,9 +544,17 @@
     "endDate" : 564796800
   },
   {
+    "driversChampionRef" : "hamilton",
+    "constructorsChampionRef" : "mercedes",
     "rounds" : 21,
     "year" : 2019,
     "startDate" : 574473600,
     "endDate" : 596851200
+  },
+  {
+    "rounds" : 8,
+    "year" : 2020,
+    "startDate" : 615600000,
+    "endDate" : 621043200
   }
 ]
