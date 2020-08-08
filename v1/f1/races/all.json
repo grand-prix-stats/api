@@ -11527,6 +11527,9 @@
     "raceRef" : "202004",
     "round" : 4,
     "time" : 47400,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2020
   },
   {
@@ -11562,6 +11565,51 @@
     "date" : 1599350400,
     "raceRef" : "202008",
     "round" : 8,
+    "time" : 47400,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Autodromo Internazionale del Mugello",
+    "circuitRef" : "mugello",
+    "date" : 1599955200,
+    "raceRef" : "202009",
+    "round" : 9,
+    "time" : 47400,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "circuitRef" : "sochi",
+    "date" : 1601164800,
+    "raceRef" : "202010",
+    "round" : 10,
+    "time" : 40200,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Nürburgring",
+    "circuitRef" : "nurburgring",
+    "date" : 1602374400,
+    "raceRef" : "202011",
+    "round" : 11,
+    "time" : 47400,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Autódromo Internacional do Algarve",
+    "circuitRef" : "portimao",
+    "date" : 1603584000,
+    "raceRef" : "202012",
+    "round" : 12,
+    "time" : 43800,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "circuitRef" : "imola",
+    "date" : 1604188800,
+    "raceRef" : "202013",
+    "round" : 13,
     "time" : 47400,
     "year" : 2020
   }
