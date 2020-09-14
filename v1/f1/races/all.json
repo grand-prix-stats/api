@@ -11551,6 +11551,9 @@
     "raceRef" : "202006",
     "round" : 6,
     "time" : 47400,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2020
   },
   {
@@ -11560,6 +11563,9 @@
     "raceRef" : "202007",
     "round" : 7,
     "time" : 47400,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2020
   },
   {
@@ -11569,6 +11575,9 @@
     "raceRef" : "202008",
     "round" : 8,
     "time" : 47400,
+    "winningConstructorColor" : "#888888",
+    "winningConstructorName" : "AlphaTauri",
+    "winningDriverRef" : "gasly",
     "year" : 2020
   },
   {
@@ -11578,6 +11587,9 @@
     "raceRef" : "202009",
     "round" : 9,
     "time" : 47400,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2020
   },
   {
@@ -11613,6 +11625,42 @@
     "date" : 1604188800,
     "raceRef" : "202013",
     "round" : 13,
+    "time" : 47400,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Istanbul Park",
+    "circuitRef" : "istanbul",
+    "date" : 1605398400,
+    "raceRef" : "202014",
+    "round" : 14,
+    "time" : 47400,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "circuitRef" : "bahrain",
+    "date" : 1606608000,
+    "raceRef" : "202015",
+    "round" : 15,
+    "time" : 54600,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "circuitRef" : "bahrain",
+    "date" : 1607212800,
+    "raceRef" : "202016",
+    "round" : 16,
+    "time" : 54600,
+    "year" : 2020
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "circuitRef" : "yas_marina",
+    "date" : 1607817600,
+    "raceRef" : "202017",
+    "round" : 17,
     "time" : 47400,
     "year" : 2020
   }
