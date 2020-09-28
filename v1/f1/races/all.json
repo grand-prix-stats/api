@@ -11599,6 +11599,9 @@
     "raceRef" : "202010",
     "round" : 10,
     "time" : 40200,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "bottas",
     "year" : 2020
   },
   {
