@@ -11647,6 +11647,9 @@
     "raceRef" : "202014",
     "round" : 14,
     "time" : 36600,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2020
   },
   {
