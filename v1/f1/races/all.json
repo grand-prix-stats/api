@@ -11658,7 +11658,10 @@
     "date" : 1606608000,
     "raceRef" : "202015",
     "round" : 15,
-    "time" : 54600,
+    "time" : 51000,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2020
   },
   {
