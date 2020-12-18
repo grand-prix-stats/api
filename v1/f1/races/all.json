@@ -11683,6 +11683,9 @@
     "raceRef" : "202017",
     "round" : 17,
     "time" : 47400,
+    "winningConstructorColor" : "#021F48",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2020
   }
 ]
