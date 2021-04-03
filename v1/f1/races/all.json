@@ -11687,5 +11687,206 @@
     "winningConstructorName" : "Red Bull",
     "winningDriverRef" : "max_verstappen",
     "year" : 2020
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "circuitRef" : "bahrain",
+    "date" : 1616889600,
+    "raceRef" : "202101",
+    "round" : 1,
+    "time" : 54000,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "circuitRef" : "imola",
+    "date" : 1618704000,
+    "raceRef" : "202102",
+    "round" : 2,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Autódromo Internacional do Algarve",
+    "circuitRef" : "portimao",
+    "date" : 1619913600,
+    "raceRef" : "202103",
+    "round" : 3,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "circuitRef" : "catalunya",
+    "date" : 1620518400,
+    "raceRef" : "202104",
+    "round" : 4,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "circuitRef" : "monaco",
+    "date" : 1621728000,
+    "raceRef" : "202105",
+    "round" : 5,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Baku City Circuit",
+    "circuitRef" : "BAK",
+    "date" : 1622937600,
+    "raceRef" : "202106",
+    "round" : 6,
+    "time" : 43200,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "circuitRef" : "villeneuve",
+    "date" : 1623542400,
+    "raceRef" : "202107",
+    "round" : 7,
+    "time" : 64800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "circuitRef" : "ricard",
+    "date" : 1624752000,
+    "raceRef" : "202108",
+    "round" : 8,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "circuitRef" : "red_bull_ring",
+    "date" : 1625356800,
+    "raceRef" : "202109",
+    "round" : 9,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "circuitRef" : "silverstone",
+    "date" : 1626566400,
+    "raceRef" : "202110",
+    "round" : 10,
+    "time" : 50400,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "circuitRef" : "hungaroring",
+    "date" : 1627776000,
+    "raceRef" : "202111",
+    "round" : 11,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "circuitRef" : "spa",
+    "date" : 1630195200,
+    "raceRef" : "202112",
+    "round" : 12,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "circuitRef" : "zandvoort",
+    "date" : 1630800000,
+    "raceRef" : "202113",
+    "round" : 13,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "circuitRef" : "monza",
+    "date" : 1631404800,
+    "raceRef" : "202114",
+    "round" : 14,
+    "time" : 46800,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "circuitRef" : "sochi",
+    "date" : 1632614400,
+    "raceRef" : "202115",
+    "round" : 15,
+    "time" : 43200,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "circuitRef" : "marina_bay",
+    "date" : 1633219200,
+    "raceRef" : "202116",
+    "round" : 16,
+    "time" : 43200,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "circuitRef" : "suzuka",
+    "date" : 1633824000,
+    "raceRef" : "202117",
+    "round" : 17,
+    "time" : 18000,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "circuitRef" : "americas",
+    "date" : 1635033600,
+    "raceRef" : "202118",
+    "round" : 18,
+    "time" : 68400,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "circuitRef" : "rodriguez",
+    "date" : 1635638400,
+    "raceRef" : "202119",
+    "round" : 19,
+    "time" : 68400,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "circuitRef" : "interlagos",
+    "date" : 1636243200,
+    "raceRef" : "202120",
+    "round" : 20,
+    "time" : 61200,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "circuitRef" : "albert_park",
+    "date" : 1637452800,
+    "raceRef" : "202121",
+    "round" : 21,
+    "time" : 21600,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "circuitRef" : "yas_marina",
+    "date" : 1639267200,
+    "raceRef" : "202123",
+    "round" : 23,
+    "time" : 46800,
+    "year" : 2021
   }
 ]
