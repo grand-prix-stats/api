@@ -11731,6 +11731,9 @@
     "raceRef" : "202104",
     "round" : 4,
     "time" : 46800,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2021
   },
   {
@@ -11752,17 +11755,17 @@
     "year" : 2021
   },
   {
-    "circuitName" : "Istanbul Park",
-    "circuitRef" : "istanbul",
-    "date" : 1623542400,
+    "circuitName" : "Circuit Paul Ricard",
+    "circuitRef" : "ricard",
+    "date" : 1624147200,
     "raceRef" : "202107",
     "round" : 7,
     "time" : 46800,
     "year" : 2021
   },
   {
-    "circuitName" : "Circuit Paul Ricard",
-    "circuitRef" : "ricard",
+    "circuitName" : "Red Bull Ring",
+    "circuitRef" : "red_bull_ring",
     "date" : 1624752000,
     "raceRef" : "202108",
     "round" : 8,
