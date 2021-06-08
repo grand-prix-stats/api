@@ -364,14 +364,14 @@
     "mostWinsDriver" : "rosberg",
     "mostWinsDriverWins" : 1,
     "name" : "Baku City Circuit",
-    "podiumConstructors" : 5,
-    "podiumDrivers" : 8,
+    "podiumConstructors" : 7,
+    "podiumDrivers" : 9,
     "races" : 5,
-    "totalConstructors" : 13,
-    "totalDrivers" : 34,
+    "totalConstructors" : 16,
+    "totalDrivers" : 38,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Baku_City_Circuit",
     "winningConstructors" : 2,
-    "winningDrivers" : 4
+    "winningDrivers" : 5
   },
   {
     "alt" : 145,

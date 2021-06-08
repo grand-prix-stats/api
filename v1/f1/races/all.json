@@ -11755,6 +11755,9 @@
     "raceRef" : "202106",
     "round" : 6,
     "time" : 43200,
+    "winningConstructorColor" : "#021F48",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "perez",
     "year" : 2021
   },
   {
