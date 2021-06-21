@@ -673,13 +673,13 @@
     "mostWinsDriverWins" : 4,
     "name" : "Circuit Paul Ricard",
     "podiumConstructors" : 14,
-    "podiumDrivers" : 29,
+    "podiumDrivers" : 30,
     "races" : 17,
-    "totalConstructors" : 56,
-    "totalDrivers" : 167,
+    "totalConstructors" : 59,
+    "totalDrivers" : 171,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Paul_Ricard_Circuit",
-    "winningConstructors" : 8,
-    "winningDrivers" : 11
+    "winningConstructors" : 9,
+    "winningDrivers" : 12
   },
   {
     "alt" : 28,
