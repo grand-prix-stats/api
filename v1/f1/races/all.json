@@ -11791,6 +11791,9 @@
     "raceRef" : "202109",
     "round" : 9,
     "time" : 46800,
+    "winningConstructorColor" : "#021F48",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2021
   },
   {
@@ -11848,12 +11851,12 @@
     "year" : 2021
   },
   {
-    "circuitName" : "Marina Bay Street Circuit",
-    "circuitRef" : "marina_bay",
+    "circuitName" : "Istanbul Park",
+    "circuitRef" : "istanbul",
     "date" : 1633219200,
     "raceRef" : "202116",
     "round" : 16,
-    "time" : 43200,
+    "time" : 36600,
     "year" : 2021
   },
   {
