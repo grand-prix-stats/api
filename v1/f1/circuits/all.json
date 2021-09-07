@@ -650,14 +650,14 @@
     "mostWinsDriver" : "clark",
     "mostWinsDriverWins" : 4,
     "name" : "Circuit Park Zandvoort",
-    "podiumConstructors" : 22,
-    "podiumDrivers" : 49,
+    "podiumConstructors" : 23,
+    "podiumDrivers" : 52,
     "races" : 31,
-    "totalConstructors" : 76,
-    "totalDrivers" : 215,
+    "totalConstructors" : 80,
+    "totalDrivers" : 235,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Circuit_Zandvoort",
-    "winningConstructors" : 16,
-    "winningDrivers" : 19
+    "winningConstructors" : 17,
+    "winningDrivers" : 20
   },
   {
     "alt" : 432,
