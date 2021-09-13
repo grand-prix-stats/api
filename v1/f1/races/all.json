@@ -11851,6 +11851,9 @@
     "raceRef" : "202114",
     "round" : 14,
     "time" : 46800,
+    "winningConstructorColor" : "#FCA13B",
+    "winningConstructorName" : "McLaren",
+    "winningDriverRef" : "ricciardo",
     "year" : 2021
   },
   {
