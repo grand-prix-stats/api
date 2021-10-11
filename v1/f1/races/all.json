@@ -11863,6 +11863,9 @@
     "raceRef" : "202115",
     "round" : 15,
     "time" : 43200,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2021
   },
   {
@@ -11871,7 +11874,10 @@
     "date" : 1633824000,
     "raceRef" : "202116",
     "round" : 16,
-    "time" : 36600,
+    "time" : 43200,
+    "winningConstructorColor" : "#18A19B",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "bottas",
     "year" : 2021
   },
   {
