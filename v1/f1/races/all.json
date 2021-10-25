@@ -11887,6 +11887,9 @@
     "raceRef" : "202117",
     "round" : 17,
     "time" : 68400,
+    "winningConstructorColor" : "#021F48",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2021
   },
   {
@@ -11905,15 +11908,6 @@
     "raceRef" : "202119",
     "round" : 19,
     "time" : 61200,
-    "year" : 2021
-  },
-  {
-    "circuitName" : "Albert Park Grand Prix Circuit",
-    "circuitRef" : "albert_park",
-    "date" : 1637452800,
-    "raceRef" : "202120",
-    "round" : 20,
-    "time" : 21600,
     "year" : 2021
   },
   {

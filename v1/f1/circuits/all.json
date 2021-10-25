@@ -102,7 +102,7 @@
     "name" : "Albert Park Grand Prix Circuit",
     "podiumConstructors" : 11,
     "podiumDrivers" : 25,
-    "races" : 25,
+    "races" : 24,
     "totalConstructors" : 39,
     "totalDrivers" : 116,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Melbourne_Grand_Prix_Circuit",
@@ -629,13 +629,13 @@
     "mostWinsDriverWins" : 5,
     "name" : "Circuit of the Americas",
     "podiumConstructors" : 5,
-    "podiumDrivers" : 10,
+    "podiumDrivers" : 11,
     "races" : 9,
-    "totalConstructors" : 17,
-    "totalDrivers" : 52,
+    "totalConstructors" : 20,
+    "totalDrivers" : 56,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Circuit_of_the_Americas",
     "winningConstructors" : 4,
-    "winningDrivers" : 4
+    "winningDrivers" : 5
   },
   {
     "alt" : 6,
