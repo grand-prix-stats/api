@@ -11917,6 +11917,24 @@
     "year" : 2021
   },
   {
+    "circuitName" : "Losail International Circuit",
+    "circuitRef" : "losail",
+    "date" : 1637452800,
+    "raceRef" : "202120",
+    "round" : 20,
+    "time" : 50400,
+    "year" : 2021
+  },
+  {
+    "circuitName" : "Jeddah Street Circuit",
+    "circuitRef" : "jeddah",
+    "date" : 1638662400,
+    "raceRef" : "202121",
+    "round" : 21,
+    "time" : 63000,
+    "year" : 2021
+  },
+  {
     "circuitName" : "Yas Marina Circuit",
     "circuitRef" : "yas_marina",
     "date" : 1639267200,

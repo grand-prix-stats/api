@@ -836,6 +836,25 @@
     "winningDrivers" : 4
   },
   {
+    "alt" : 9,
+    "circuitRef" : "hanoi",
+    "country" : "Vietnam",
+    "countryCode" : "vn",
+    "countryFlag" : "🇻🇳",
+    "lat" : 21.016599655151367,
+    "lng" : 105.76599884033203,
+    "location" : "Hanoi",
+    "name" : "Hanoi Street Circuit",
+    "podiumConstructors" : 0,
+    "podiumDrivers" : 0,
+    "races" : 0,
+    "totalConstructors" : 0,
+    "totalDrivers" : 0,
+    "url" : "http:\/\/en.wikipedia.org\/wiki\/Hanoi_Street_Circuit",
+    "winningConstructors" : 0,
+    "winningDrivers" : 0
+  },
+  {
     "alt" : 103,
     "circuitRef" : "hockenheimring",
     "country" : "Germany",
@@ -946,6 +965,25 @@
     "winningDrivers" : 8
   },
   {
+    "alt" : 15,
+    "circuitRef" : "jeddah",
+    "country" : "Saudi Arabia",
+    "countryCode" : "sa",
+    "countryFlag" : "🇸🇦",
+    "lat" : 21.543300628662109,
+    "lng" : 39.172798156738281,
+    "location" : "Jeddah",
+    "name" : "Jeddah Street Circuit",
+    "podiumConstructors" : 0,
+    "podiumDrivers" : 0,
+    "races" : 1,
+    "totalConstructors" : 0,
+    "totalDrivers" : 0,
+    "url" : "http:\/\/en.wikipedia.org\/wiki\/Jeddah_Street_Circuit",
+    "winningConstructors" : 0,
+    "winningDrivers" : 0
+  },
+  {
     "alt" : 0,
     "circuitRef" : "yeongam",
     "country" : "Korea",
@@ -1054,6 +1092,24 @@
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Long_Beach,_California",
     "winningConstructors" : 5,
     "winningDrivers" : 8
+  },
+  {
+    "circuitRef" : "losail",
+    "country" : "Qatar",
+    "countryCode" : "qa",
+    "countryFlag" : "🇶🇦",
+    "lat" : 25.489999771118164,
+    "lng" : 51.454200744628906,
+    "location" : "Al Daayen",
+    "name" : "Losail International Circuit",
+    "podiumConstructors" : 0,
+    "podiumDrivers" : 0,
+    "races" : 1,
+    "totalConstructors" : 0,
+    "totalDrivers" : 0,
+    "url" : "http:\/\/en.wikipedia.org\/wiki\/Losail_International_Circuit",
+    "winningConstructors" : 0,
+    "winningDrivers" : 0
   },
   {
     "alt" : 18,
