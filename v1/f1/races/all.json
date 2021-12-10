@@ -11935,6 +11935,9 @@
     "raceRef" : "202121",
     "round" : 21,
     "time" : 63000,
+    "winningConstructorColor" : "#22CEBB",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2021
   },
   {
