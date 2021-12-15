@@ -1656,10 +1656,10 @@
     "mostWinsDriverWins" : 5,
     "name" : "Yas Marina Circuit",
     "podiumConstructors" : 7,
-    "podiumDrivers" : 11,
+    "podiumDrivers" : 12,
     "races" : 13,
-    "totalConstructors" : 23,
-    "totalDrivers" : 65,
+    "totalConstructors" : 25,
+    "totalDrivers" : 67,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Yas_Marina_Circuit",
     "winningConstructors" : 4,
     "winningDrivers" : 6

@@ -560,6 +560,8 @@
     "year" : 2020
   },
   {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "max_verstappen",
     "endDate" : 1639267200,
     "rounds" : 22,
     "startDate" : 1616889600,
