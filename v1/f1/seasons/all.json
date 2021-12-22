@@ -566,5 +566,11 @@
     "rounds" : 22,
     "startDate" : 1616889600,
     "year" : 2021
+  },
+  {
+    "endDate" : 1668902400,
+    "rounds" : 23,
+    "startDate" : 1647734400,
+    "year" : 2022
   }
 ]

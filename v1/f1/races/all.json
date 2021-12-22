@@ -11951,5 +11951,203 @@
     "winningConstructorName" : "Red Bull",
     "winningDriverRef" : "max_verstappen",
     "year" : 2021
+  },
+  {
+    "circuitName" : "Bahrain International Circuit",
+    "circuitRef" : "bahrain",
+    "date" : 1647734400,
+    "raceRef" : "202201",
+    "round" : 1,
+    "time" : 54000,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Jeddah Street Circuit",
+    "circuitRef" : "jeddah",
+    "date" : 1648339200,
+    "raceRef" : "202202",
+    "round" : 2,
+    "time" : 63000,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Albert Park Grand Prix Circuit",
+    "circuitRef" : "albert_park",
+    "date" : 1649548800,
+    "raceRef" : "202203",
+    "round" : 3,
+    "time" : 18600,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Autodromo Enzo e Dino Ferrari",
+    "circuitRef" : "imola",
+    "date" : 1650758400,
+    "raceRef" : "202204",
+    "round" : 4,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit de Barcelona-Catalunya",
+    "circuitRef" : "catalunya",
+    "date" : 1653177600,
+    "raceRef" : "202206",
+    "round" : 6,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit de Monaco",
+    "circuitRef" : "monaco",
+    "date" : 1653782400,
+    "raceRef" : "202207",
+    "round" : 7,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Baku City Circuit",
+    "circuitRef" : "BAK",
+    "date" : 1654992000,
+    "raceRef" : "202208",
+    "round" : 8,
+    "time" : 43200,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit Gilles Villeneuve",
+    "circuitRef" : "villeneuve",
+    "date" : 1655596800,
+    "raceRef" : "202209",
+    "round" : 9,
+    "time" : 69000,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Silverstone Circuit",
+    "circuitRef" : "silverstone",
+    "date" : 1656806400,
+    "raceRef" : "202210",
+    "round" : 10,
+    "time" : 50400,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Red Bull Ring",
+    "circuitRef" : "red_bull_ring",
+    "date" : 1657584000,
+    "raceRef" : "202211",
+    "round" : 11,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit Paul Ricard",
+    "circuitRef" : "ricard",
+    "date" : 1658620800,
+    "raceRef" : "202212",
+    "round" : 12,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Hungaroring",
+    "circuitRef" : "hungaroring",
+    "date" : 1659225600,
+    "raceRef" : "202213",
+    "round" : 13,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit de Spa-Francorchamps",
+    "circuitRef" : "spa",
+    "date" : 1661644800,
+    "raceRef" : "202214",
+    "round" : 14,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit Park Zandvoort",
+    "circuitRef" : "zandvoort",
+    "date" : 1662249600,
+    "raceRef" : "202215",
+    "round" : 15,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Autodromo Nazionale di Monza",
+    "circuitRef" : "monza",
+    "date" : 1662854400,
+    "raceRef" : "202216",
+    "round" : 16,
+    "time" : 46800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Sochi Autodrom",
+    "circuitRef" : "sochi",
+    "date" : 1664064000,
+    "raceRef" : "202217",
+    "round" : 17,
+    "time" : 43200,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Marina Bay Street Circuit",
+    "circuitRef" : "marina_bay",
+    "date" : 1664668800,
+    "raceRef" : "202218",
+    "round" : 18,
+    "time" : 43800,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Suzuka Circuit",
+    "circuitRef" : "suzuka",
+    "date" : 1665273600,
+    "raceRef" : "202219",
+    "round" : 19,
+    "time" : 18600,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Circuit of the Americas",
+    "circuitRef" : "americas",
+    "date" : 1666483200,
+    "raceRef" : "202220",
+    "round" : 20,
+    "time" : 68400,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Autódromo Hermanos Rodríguez",
+    "circuitRef" : "rodriguez",
+    "date" : 1667088000,
+    "raceRef" : "202221",
+    "round" : 21,
+    "time" : 68400,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Autódromo José Carlos Pace",
+    "circuitRef" : "interlagos",
+    "date" : 1668297600,
+    "raceRef" : "202222",
+    "round" : 22,
+    "time" : 61200,
+    "year" : 2022
+  },
+  {
+    "circuitName" : "Yas Marina Circuit",
+    "circuitRef" : "yas_marina",
+    "date" : 1668902400,
+    "raceRef" : "202223",
+    "round" : 23,
+    "time" : 46800,
+    "year" : 2022
   }
 ]
