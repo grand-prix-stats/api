@@ -977,14 +977,14 @@
     "mostWinsDriver" : "hamilton",
     "mostWinsDriverWins" : 1,
     "name" : "Jeddah Corniche Circuit",
-    "podiumConstructors" : 2,
-    "podiumDrivers" : 3,
+    "podiumConstructors" : 3,
+    "podiumDrivers" : 5,
     "races" : 2,
     "totalConstructors" : 10,
-    "totalDrivers" : 20,
+    "totalDrivers" : 24,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Jeddah_Street_Circuit",
-    "winningConstructors" : 1,
-    "winningDrivers" : 1
+    "winningConstructors" : 2,
+    "winningDrivers" : 2
   },
   {
     "alt" : 0,
