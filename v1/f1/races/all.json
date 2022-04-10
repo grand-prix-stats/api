@@ -11983,6 +11983,9 @@
     "raceRef" : "202203",
     "round" : 3,
     "time" : 18000,
+    "winningConstructorColor" : "#EA212D",
+    "winningConstructorName" : "Ferrari",
+    "winningDriverRef" : "leclerc",
     "year" : 2022
   },
   {
