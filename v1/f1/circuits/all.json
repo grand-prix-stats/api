@@ -1140,6 +1140,24 @@
     "winningDrivers" : 4
   },
   {
+    "circuitRef" : "miami",
+    "country" : "USA",
+    "countryCode" : "us",
+    "countryFlag" : "🇺🇸",
+    "lat" : 25.958099365234375,
+    "lng" : -80.238899230957031,
+    "location" : "Miami",
+    "name" : "Miami International Autodrome",
+    "podiumConstructors" : 0,
+    "podiumDrivers" : 0,
+    "races" : 1,
+    "totalConstructors" : 0,
+    "totalDrivers" : 0,
+    "url" : "http:\/\/en.wikipedia.org\/wiki\/Miami_International_Autodrome",
+    "winningConstructors" : 0,
+    "winningDrivers" : 0
+  },
+  {
     "alt" : 158,
     "circuitRef" : "monsanto",
     "country" : "Portugal",

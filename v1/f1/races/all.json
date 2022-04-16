@@ -16242,6 +16242,19 @@
     "year" : 2022
   },
   {
+    "circuitName" : "Miami International Autodrome",
+    "circuitRef" : "miami",
+    "country" : "USA",
+    "countryCode" : "us",
+    "countryFlag" : "🇺🇸",
+    "date" : 1651968000,
+    "name" : "Miami Grand Prix",
+    "raceRef" : "202205",
+    "round" : 5,
+    "time" : 70200,
+    "year" : 2022
+  },
+  {
     "circuitName" : "Circuit de Barcelona-Catalunya",
     "circuitRef" : "catalunya",
     "country" : "Spain",
