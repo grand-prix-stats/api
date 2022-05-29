@@ -16287,6 +16287,9 @@
     "raceRef" : "202207",
     "round" : 7,
     "time" : 46800,
+    "winningConstructorColor" : "#235EC3",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "perez",
     "year" : 2022
   },
   {
