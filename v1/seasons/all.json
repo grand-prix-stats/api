@@ -1,0 +1,576 @@
+[
+  {
+    "driversChampionRef" : "farina",
+    "endDate" : -609984000,
+    "rounds" : 7,
+    "startDate" : -619747200,
+    "year" : 1950
+  },
+  {
+    "driversChampionRef" : "fangio",
+    "endDate" : -573696000,
+    "rounds" : 8,
+    "startDate" : -587001600,
+    "year" : 1951
+  },
+  {
+    "driversChampionRef" : "ascari",
+    "endDate" : -546480000,
+    "rounds" : 8,
+    "startDate" : -556156800,
+    "year" : 1952
+  },
+  {
+    "driversChampionRef" : "ascari",
+    "endDate" : -514425600,
+    "rounds" : 9,
+    "startDate" : -534988800,
+    "year" : 1953
+  },
+  {
+    "driversChampionRef" : "fangio",
+    "endDate" : -479347200,
+    "rounds" : 9,
+    "startDate" : -503539200,
+    "year" : 1954
+  },
+  {
+    "driversChampionRef" : "fangio",
+    "endDate" : -451526400,
+    "rounds" : 7,
+    "startDate" : -472089600,
+    "year" : 1955
+  },
+  {
+    "driversChampionRef" : "fangio",
+    "endDate" : -420681600,
+    "rounds" : 8,
+    "startDate" : -440035200,
+    "year" : 1956
+  },
+  {
+    "driversChampionRef" : "fangio",
+    "endDate" : -388627200,
+    "rounds" : 8,
+    "startDate" : -409190400,
+    "year" : 1957
+  },
+  {
+    "constructorsChampionRef" : "vanwall",
+    "driversChampionRef" : "hawthorn",
+    "endDate" : -353548800,
+    "rounds" : 11,
+    "startDate" : -377136000,
+    "year" : 1958
+  },
+  {
+    "constructorsChampionRef" : "cooper-climax",
+    "driversChampionRef" : "jack_brabham",
+    "endDate" : -317347200,
+    "rounds" : 9,
+    "startDate" : -336009600,
+    "year" : 1959
+  },
+  {
+    "constructorsChampionRef" : "cooper-climax",
+    "driversChampionRef" : "jack_brabham",
+    "endDate" : -287625600,
+    "rounds" : 10,
+    "startDate" : -312422400,
+    "year" : 1960
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "phil_hill",
+    "endDate" : -259804800,
+    "rounds" : 8,
+    "startDate" : -272505600,
+    "year" : 1961
+  },
+  {
+    "constructorsChampionRef" : "brm",
+    "driversChampionRef" : "hill",
+    "endDate" : -221184000,
+    "rounds" : 9,
+    "startDate" : -240451200,
+    "year" : 1962
+  },
+  {
+    "constructorsChampionRef" : "lotus-climax",
+    "driversChampionRef" : "clark",
+    "endDate" : -189734400,
+    "rounds" : 10,
+    "startDate" : -208396800,
+    "year" : 1963
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "surtees",
+    "endDate" : -163641600,
+    "rounds" : 10,
+    "startDate" : -178156800,
+    "year" : 1964
+  },
+  {
+    "constructorsChampionRef" : "lotus-climax",
+    "driversChampionRef" : "clark",
+    "endDate" : -132192000,
+    "rounds" : 10,
+    "startDate" : -157766400,
+    "year" : 1965
+  },
+  {
+    "constructorsChampionRef" : "brabham-repco",
+    "driversChampionRef" : "jack_brabham",
+    "endDate" : -100742400,
+    "rounds" : 9,
+    "startDate" : -114048000,
+    "year" : 1966
+  },
+  {
+    "constructorsChampionRef" : "brabham-repco",
+    "driversChampionRef" : "hulme",
+    "endDate" : -69292800,
+    "rounds" : 11,
+    "startDate" : -94608000,
+    "year" : 1967
+  },
+  {
+    "constructorsChampionRef" : "lotus-ford",
+    "driversChampionRef" : "hill",
+    "endDate" : -36633600,
+    "rounds" : 12,
+    "startDate" : -63158400,
+    "year" : 1968
+  },
+  {
+    "constructorsChampionRef" : "matra-ford",
+    "driversChampionRef" : "stewart",
+    "endDate" : -6393600,
+    "rounds" : 11,
+    "startDate" : -26438400,
+    "year" : 1969
+  },
+  {
+    "constructorsChampionRef" : "team_lotus",
+    "driversChampionRef" : "rindt",
+    "endDate" : 25660800,
+    "rounds" : 13,
+    "startDate" : 5616000,
+    "year" : 1970
+  },
+  {
+    "constructorsChampionRef" : "tyrrell",
+    "driversChampionRef" : "stewart",
+    "endDate" : 55296000,
+    "rounds" : 11,
+    "startDate" : 37065600,
+    "year" : 1971
+  },
+  {
+    "constructorsChampionRef" : "team_lotus",
+    "driversChampionRef" : "emerson_fittipaldi",
+    "endDate" : 87350400,
+    "rounds" : 12,
+    "startDate" : 64972800,
+    "year" : 1972
+  },
+  {
+    "constructorsChampionRef" : "team_lotus",
+    "driversChampionRef" : "stewart",
+    "endDate" : 118800000,
+    "rounds" : 15,
+    "startDate" : 97027200,
+    "year" : 1973
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "emerson_fittipaldi",
+    "endDate" : 150249600,
+    "rounds" : 15,
+    "startDate" : 127267200,
+    "year" : 1974
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "lauda",
+    "endDate" : 181699200,
+    "rounds" : 14,
+    "startDate" : 158716800,
+    "year" : 1975
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "hunt",
+    "endDate" : 214963200,
+    "rounds" : 16,
+    "startDate" : 191376000,
+    "year" : 1976
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "lauda",
+    "endDate" : 246412800,
+    "rounds" : 17,
+    "startDate" : 221616000,
+    "year" : 1977
+  },
+  {
+    "constructorsChampionRef" : "team_lotus",
+    "driversChampionRef" : "mario_andretti",
+    "endDate" : 276652800,
+    "rounds" : 16,
+    "startDate" : 253670400,
+    "year" : 1978
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "scheckter",
+    "endDate" : 308102400,
+    "rounds" : 15,
+    "startDate" : 285724800,
+    "year" : 1979
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "jones",
+    "endDate" : 339552000,
+    "rounds" : 14,
+    "startDate" : 316569600,
+    "year" : 1980
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "piquet",
+    "endDate" : 372124800,
+    "rounds" : 15,
+    "startDate" : 353462400,
+    "year" : 1981
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "keke_rosberg",
+    "endDate" : 401760000,
+    "rounds" : 16,
+    "startDate" : 380592000,
+    "year" : 1982
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "piquet",
+    "endDate" : 435024000,
+    "rounds" : 15,
+    "startDate" : 416361600,
+    "year" : 1983
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "lauda",
+    "endDate" : 467164800,
+    "rounds" : 16,
+    "startDate" : 449020800,
+    "year" : 1984
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "prost",
+    "endDate" : 499824000,
+    "rounds" : 16,
+    "startDate" : 481680000,
+    "year" : 1985
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "prost",
+    "endDate" : 530668800,
+    "rounds" : 16,
+    "startDate" : 511920000,
+    "year" : 1986
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "piquet",
+    "endDate" : 563932800,
+    "rounds" : 16,
+    "startDate" : 545184000,
+    "year" : 1987
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "senna",
+    "endDate" : 595382400,
+    "rounds" : 16,
+    "startDate" : 576028800,
+    "year" : 1988
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "prost",
+    "endDate" : 626227200,
+    "rounds" : 16,
+    "startDate" : 606873600,
+    "year" : 1989
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "senna",
+    "endDate" : 657676800,
+    "rounds" : 16,
+    "startDate" : 637113600,
+    "year" : 1990
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "senna",
+    "endDate" : 689126400,
+    "rounds" : 16,
+    "startDate" : 668563200,
+    "year" : 1991
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "mansell",
+    "endDate" : 721180800,
+    "rounds" : 16,
+    "startDate" : 699408000,
+    "year" : 1992
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "prost",
+    "endDate" : 752630400,
+    "rounds" : 16,
+    "startDate" : 732067200,
+    "year" : 1993
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 784684800,
+    "rounds" : 16,
+    "startDate" : 764726400,
+    "year" : 1994
+  },
+  {
+    "constructorsChampionRef" : "benetton",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 816134400,
+    "rounds" : 17,
+    "startDate" : 796176000,
+    "year" : 1995
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "damon_hill",
+    "endDate" : 845164800,
+    "rounds" : 16,
+    "startDate" : 826416000,
+    "year" : 1996
+  },
+  {
+    "constructorsChampionRef" : "williams",
+    "driversChampionRef" : "villeneuve",
+    "endDate" : 877824000,
+    "rounds" : 17,
+    "startDate" : 857865600,
+    "year" : 1997
+  },
+  {
+    "constructorsChampionRef" : "mclaren",
+    "driversChampionRef" : "hakkinen",
+    "endDate" : 909878400,
+    "rounds" : 16,
+    "startDate" : 889315200,
+    "year" : 1998
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "hakkinen",
+    "endDate" : 941328000,
+    "rounds" : 16,
+    "startDate" : 920764800,
+    "year" : 1999
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 972172800,
+    "rounds" : 17,
+    "startDate" : 952819200,
+    "year" : 2000
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 1003017600,
+    "rounds" : 17,
+    "startDate" : 983664000,
+    "year" : 2001
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 1034467200,
+    "rounds" : 17,
+    "startDate" : 1015113600,
+    "year" : 2002
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 1065916800,
+    "rounds" : 16,
+    "startDate" : 1047168000,
+    "year" : 2003
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "michael_schumacher",
+    "endDate" : 1098576000,
+    "rounds" : 18,
+    "startDate" : 1078617600,
+    "year" : 2004
+  },
+  {
+    "constructorsChampionRef" : "renault",
+    "driversChampionRef" : "alonso",
+    "endDate" : 1129420800,
+    "rounds" : 19,
+    "startDate" : 1110067200,
+    "year" : 2005
+  },
+  {
+    "constructorsChampionRef" : "renault",
+    "driversChampionRef" : "alonso",
+    "endDate" : 1161475200,
+    "rounds" : 18,
+    "startDate" : 1142121600,
+    "year" : 2006
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "raikkonen",
+    "endDate" : 1192924800,
+    "rounds" : 17,
+    "startDate" : 1174176000,
+    "year" : 2007
+  },
+  {
+    "constructorsChampionRef" : "ferrari",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1225584000,
+    "rounds" : 18,
+    "startDate" : 1205625600,
+    "year" : 2008
+  },
+  {
+    "constructorsChampionRef" : "brawn",
+    "driversChampionRef" : "button",
+    "endDate" : 1257033600,
+    "rounds" : 17,
+    "startDate" : 1238284800,
+    "year" : 2009
+  },
+  {
+    "constructorsChampionRef" : "red_bull",
+    "driversChampionRef" : "vettel",
+    "endDate" : 1289692800,
+    "rounds" : 19,
+    "startDate" : 1268524800,
+    "year" : 2010
+  },
+  {
+    "constructorsChampionRef" : "red_bull",
+    "driversChampionRef" : "vettel",
+    "endDate" : 1322352000,
+    "rounds" : 19,
+    "startDate" : 1301184000,
+    "year" : 2011
+  },
+  {
+    "constructorsChampionRef" : "red_bull",
+    "driversChampionRef" : "vettel",
+    "endDate" : 1353801600,
+    "rounds" : 20,
+    "startDate" : 1332028800,
+    "year" : 2012
+  },
+  {
+    "constructorsChampionRef" : "red_bull",
+    "driversChampionRef" : "vettel",
+    "endDate" : 1385251200,
+    "rounds" : 19,
+    "startDate" : 1363478400,
+    "year" : 2013
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1416700800,
+    "rounds" : 19,
+    "startDate" : 1394928000,
+    "year" : 2014
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1448755200,
+    "rounds" : 19,
+    "startDate" : 1426377600,
+    "year" : 2015
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "rosberg",
+    "endDate" : 1480204800,
+    "rounds" : 21,
+    "startDate" : 1458432000,
+    "year" : 2016
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1511654400,
+    "rounds" : 20,
+    "startDate" : 1490486400,
+    "year" : 2017
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1543104000,
+    "rounds" : 21,
+    "startDate" : 1521936000,
+    "year" : 2018
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1575158400,
+    "rounds" : 21,
+    "startDate" : 1552780800,
+    "year" : 2019
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "hamilton",
+    "endDate" : 1607817600,
+    "rounds" : 17,
+    "startDate" : 1593907200,
+    "year" : 2020
+  },
+  {
+    "constructorsChampionRef" : "mercedes",
+    "driversChampionRef" : "max_verstappen",
+    "endDate" : 1639267200,
+    "rounds" : 22,
+    "startDate" : 1616889600,
+    "year" : 2021
+  },
+  {
+    "endDate" : 1668902400,
+    "rounds" : 22,
+    "startDate" : 1647734400,
+    "year" : 2022
+  }
+]
