@@ -1,27 +1,5 @@
 [
   {
-    "alt" : 678,
-    "circuitRef" : "osterreichring",
-    "country" : "Austria",
-    "countryCode" : "at",
-    "countryFlag" : "🇦🇹",
-    "lat" : 47.219699859619141,
-    "lng" : 14.764699935913086,
-    "location" : "Spielberg",
-    "mostWinsConstructor" : "mclaren",
-    "mostWinsDriver" : "prost",
-    "mostWinsDriverWins" : 3,
-    "name" : "A1-Ring",
-    "podiumConstructors" : 17,
-    "podiumDrivers" : 43,
-    "races" : 25,
-    "totalConstructors" : 60,
-    "totalDrivers" : 189,
-    "url" : "http:\/\/en.wikipedia.org\/wiki\/A1-Ring",
-    "winningConstructors" : 11,
-    "winningDrivers" : 19
-  },
-  {
     "alt" : 58,
     "circuitRef" : "adelaide",
     "country" : "Australia",
@@ -353,7 +331,7 @@
   },
   {
     "alt" : -7,
-    "circuitRef" : "BAK",
+    "circuitRef" : "baku",
     "country" : "Azerbaijan",
     "countryCode" : "az",
     "countryFlag" : "🇦🇿",
@@ -365,13 +343,13 @@
     "mostWinsDriverWins" : 1,
     "name" : "Baku City Circuit",
     "podiumConstructors" : 7,
-    "podiumDrivers" : 9,
+    "podiumDrivers" : 11,
     "races" : 6,
     "totalConstructors" : 16,
-    "totalDrivers" : 38,
+    "totalDrivers" : 39,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Baku_City_Circuit",
     "winningConstructors" : 2,
-    "winningDrivers" : 5
+    "winningDrivers" : 6
   },
   {
     "alt" : 145,
@@ -585,13 +563,13 @@
     "mostWinsDriverWins" : 7,
     "name" : "Circuit Gilles Villeneuve",
     "podiumConstructors" : 17,
-    "podiumDrivers" : 50,
+    "podiumDrivers" : 51,
     "races" : 41,
-    "totalConstructors" : 70,
-    "totalDrivers" : 233,
+    "totalConstructors" : 73,
+    "totalDrivers" : 237,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Circuit_Gilles_Villeneuve",
     "winningConstructors" : 10,
-    "winningDrivers" : 23
+    "winningDrivers" : 24
   },
   {
     "alt" : 214,
@@ -673,10 +651,10 @@
     "mostWinsDriverWins" : 4,
     "name" : "Circuit Paul Ricard",
     "podiumConstructors" : 14,
-    "podiumDrivers" : 30,
+    "podiumDrivers" : 31,
     "races" : 18,
     "totalConstructors" : 59,
-    "totalDrivers" : 171,
+    "totalDrivers" : 172,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Paul_Ricard_Circuit",
     "winningConstructors" : 9,
     "winningDrivers" : 12
@@ -836,25 +814,6 @@
     "winningDrivers" : 4
   },
   {
-    "alt" : 9,
-    "circuitRef" : "hanoi",
-    "country" : "Vietnam",
-    "countryCode" : "vn",
-    "countryFlag" : "🇻🇳",
-    "lat" : 21.016599655151367,
-    "lng" : 105.76599884033203,
-    "location" : "Hanoi",
-    "name" : "Hanoi Street Circuit",
-    "podiumConstructors" : 0,
-    "podiumDrivers" : 0,
-    "races" : 0,
-    "totalConstructors" : 0,
-    "totalDrivers" : 0,
-    "url" : "http:\/\/en.wikipedia.org\/wiki\/Hanoi_Street_Circuit",
-    "winningConstructors" : 0,
-    "winningDrivers" : 0
-  },
-  {
     "alt" : 103,
     "circuitRef" : "hockenheimring",
     "country" : "Germany",
@@ -890,13 +849,13 @@
     "mostWinsDriverWins" : 8,
     "name" : "Hungaroring",
     "podiumConstructors" : 15,
-    "podiumDrivers" : 37,
+    "podiumDrivers" : 38,
     "races" : 37,
     "totalConstructors" : 61,
-    "totalDrivers" : 191,
+    "totalDrivers" : 192,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Hungaroring",
     "winningConstructors" : 9,
-    "winningDrivers" : 18
+    "winningDrivers" : 19
   },
   {
     "alt" : 223,
@@ -1337,25 +1296,6 @@
     "winningDrivers" : 2
   },
   {
-    "alt" : 4,
-    "circuitRef" : "port_imperial",
-    "country" : "USA",
-    "countryCode" : "us",
-    "countryFlag" : "🇺🇸",
-    "lat" : 40.776901245117188,
-    "lng" : -74.011100769042969,
-    "location" : "New Jersey",
-    "name" : "Port Imperial Street Circuit",
-    "podiumConstructors" : 0,
-    "podiumDrivers" : 0,
-    "races" : 0,
-    "totalConstructors" : 0,
-    "totalDrivers" : 0,
-    "url" : "http:\/\/en.wikipedia.org\/wiki\/Port_Imperial_Street_Circuit",
-    "winningConstructors" : 0,
-    "winningDrivers" : 0
-  },
-  {
     "alt" : 15,
     "circuitRef" : "george",
     "country" : "South Africa",
@@ -1386,18 +1326,18 @@
     "lat" : 47.219699859619141,
     "lng" : 14.764699935913086,
     "location" : "Spielberg",
-    "mostWinsConstructor" : "mercedes",
+    "mostWinsConstructor" : "mclaren",
     "mostWinsDriver" : "max_verstappen",
     "mostWinsDriverWins" : 4,
     "name" : "Red Bull Ring",
-    "podiumConstructors" : 5,
-    "podiumDrivers" : 10,
-    "races" : 11,
-    "totalConstructors" : 19,
-    "totalDrivers" : 46,
+    "podiumConstructors" : 19,
+    "podiumDrivers" : 52,
+    "races" : 36,
+    "totalConstructors" : 73,
+    "totalDrivers" : 232,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Red_Bull_Ring",
-    "winningConstructors" : 2,
-    "winningDrivers" : 4
+    "winningConstructors" : 13,
+    "winningDrivers" : 24
   },
   {
     "alt" : 88,
@@ -1567,13 +1507,13 @@
     "mostWinsDriverWins" : 8,
     "name" : "Silverstone Circuit",
     "podiumConstructors" : 26,
-    "podiumDrivers" : 72,
+    "podiumDrivers" : 74,
     "races" : 57,
     "totalConstructors" : 123,
-    "totalDrivers" : 419,
+    "totalDrivers" : 420,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Silverstone_Circuit",
     "winningConstructors" : 13,
-    "winningDrivers" : 31
+    "winningDrivers" : 32
   },
   {
     "alt" : 2,
