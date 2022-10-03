@@ -1085,18 +1085,18 @@
     "lat" : 1.2913999557495117,
     "lng" : 103.86399841308594,
     "location" : "Marina Bay",
-    "mostWinsConstructor" : "mercedes",
+    "mostWinsConstructor" : "red_bull",
     "mostWinsDriver" : "vettel",
     "mostWinsDriverWins" : 5,
     "name" : "Marina Bay Street Circuit",
     "podiumConstructors" : 8,
-    "podiumDrivers" : 12,
+    "podiumDrivers" : 14,
     "races" : 13,
-    "totalConstructors" : 23,
-    "totalDrivers" : 66,
+    "totalConstructors" : 26,
+    "totalDrivers" : 70,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Marina_Bay_Street_Circuit",
     "winningConstructors" : 5,
-    "winningDrivers" : 4
+    "winningDrivers" : 5
   },
   {
     "circuitRef" : "miami",
