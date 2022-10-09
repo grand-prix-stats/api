@@ -1551,13 +1551,13 @@
     "mostWinsDriverWins" : 6,
     "name" : "Suzuka Circuit",
     "podiumConstructors" : 13,
-    "podiumDrivers" : 37,
+    "podiumDrivers" : 39,
     "races" : 32,
-    "totalConstructors" : 55,
-    "totalDrivers" : 171,
+    "totalConstructors" : 58,
+    "totalDrivers" : 175,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Suzuka_Circuit",
     "winningConstructors" : 7,
-    "winningDrivers" : 16
+    "winningDrivers" : 17
   },
   {
     "alt" : 4,

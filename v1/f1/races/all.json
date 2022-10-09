@@ -16463,6 +16463,9 @@
     "raceRef" : "202218",
     "round" : 18,
     "time" : 18000,
+    "winningConstructorColor" : "#235EC3",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2022
   },
   {
