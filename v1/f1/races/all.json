@@ -16479,6 +16479,9 @@
     "raceRef" : "202219",
     "round" : 19,
     "time" : 68400,
+    "winningConstructorColor" : "#235EC3",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2022
   },
   {
@@ -16492,6 +16495,9 @@
     "raceRef" : "202220",
     "round" : 20,
     "time" : 72000,
+    "winningConstructorColor" : "#235EC3",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2022
   },
   {
@@ -16505,6 +16511,9 @@
     "raceRef" : "202221",
     "round" : 21,
     "time" : 64800,
+    "winningConstructorColor" : "#70D2BF",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "russell",
     "year" : 2022
   },
   {
