@@ -568,6 +568,8 @@
     "year" : 2021
   },
   {
+    "constructorsChampionRef" : "red_bull",
+    "driversChampionRef" : "max_verstappen",
     "endDate" : 1668902400,
     "rounds" : 22,
     "startDate" : 1647734400,
