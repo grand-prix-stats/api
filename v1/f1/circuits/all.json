@@ -320,14 +320,14 @@
     "mostWinsDriver" : "hamilton",
     "mostWinsDriverWins" : 5,
     "name" : "Bahrain International Circuit",
-    "podiumConstructors" : 12,
+    "podiumConstructors" : 13,
     "podiumDrivers" : 20,
     "races" : 20,
     "totalConstructors" : 33,
-    "totalDrivers" : 90,
+    "totalDrivers" : 93,
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Bahrain_International_Circuit",
     "winningConstructors" : 6,
-    "winningDrivers" : 9
+    "winningDrivers" : 10
   },
   {
     "alt" : -7,
@@ -1010,6 +1010,24 @@
     "url" : "http:\/\/en.wikipedia.org\/wiki\/Las_Vegas_Street_Circuit",
     "winningConstructors" : 2,
     "winningDrivers" : 2
+  },
+  {
+    "circuitRef" : "vegas",
+    "country" : "USA",
+    "countryCode" : "us",
+    "countryFlag" : "🇺🇸",
+    "lat" : 36.114700317382812,
+    "lng" : -115.17299652099609,
+    "location" : "Las Vegas",
+    "name" : "Las Vegas Strip Street Circuit",
+    "podiumConstructors" : 0,
+    "podiumDrivers" : 0,
+    "races" : 1,
+    "totalConstructors" : 0,
+    "totalDrivers" : 0,
+    "url" : "https:\/\/en.wikipedia.org\/wiki\/Las_Vegas_Grand_Prix#Circuit",
+    "winningConstructors" : 0,
+    "winningDrivers" : 0
   },
   {
     "alt" : 67,
