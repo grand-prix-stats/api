@@ -16591,6 +16591,9 @@
     "raceRef" : "202304",
     "round" : 4,
     "time" : 39600,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "perez",
     "year" : 2023
   },
   {
