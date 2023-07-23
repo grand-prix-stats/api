@@ -16703,6 +16703,9 @@
     "raceRef" : "202311",
     "round" : 11,
     "time" : 46800,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2023
   },
   {
