@@ -576,6 +576,8 @@
     "year" : 2022
   },
   {
+    "constructorsChampionRef" : "red_bull",
+    "driversChampionRef" : "max_verstappen",
     "endDate" : 1700956800,
     "rounds" : 22,
     "startDate" : 1677974400,
