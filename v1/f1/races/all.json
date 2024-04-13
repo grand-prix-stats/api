@@ -16894,6 +16894,10 @@
     "name" : "Bahrain Grand Prix",
     "raceRef" : "202401",
     "round" : 1,
+    "time" : 54000,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2024
   },
   {
@@ -16906,6 +16910,10 @@
     "name" : "Saudi Arabian Grand Prix",
     "raceRef" : "202402",
     "round" : 2,
+    "time" : 61200,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2024
   },
   {
@@ -16918,6 +16926,10 @@
     "name" : "Australian Grand Prix",
     "raceRef" : "202403",
     "round" : 3,
+    "time" : 14400,
+    "winningConstructorColor" : "#F91435",
+    "winningConstructorName" : "Ferrari",
+    "winningDriverRef" : "sainz",
     "year" : 2024
   },
   {
@@ -16930,6 +16942,10 @@
     "name" : "Japanese Grand Prix",
     "raceRef" : "202404",
     "round" : 4,
+    "time" : 18000,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2024
   },
   {
@@ -16942,6 +16958,7 @@
     "name" : "Chinese Grand Prix",
     "raceRef" : "202405",
     "round" : 5,
+    "time" : 25200,
     "year" : 2024
   },
   {
@@ -16954,6 +16971,7 @@
     "name" : "Miami Grand Prix",
     "raceRef" : "202406",
     "round" : 6,
+    "time" : 72000,
     "year" : 2024
   },
   {
@@ -16966,6 +16984,7 @@
     "name" : "Emilia Romagna Grand Prix",
     "raceRef" : "202407",
     "round" : 7,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -16978,6 +16997,7 @@
     "name" : "Monaco Grand Prix",
     "raceRef" : "202408",
     "round" : 8,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -16990,6 +17010,7 @@
     "name" : "Canadian Grand Prix",
     "raceRef" : "202409",
     "round" : 9,
+    "time" : 64800,
     "year" : 2024
   },
   {
@@ -17002,6 +17023,7 @@
     "name" : "Spanish Grand Prix",
     "raceRef" : "202410",
     "round" : 10,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -17014,6 +17036,7 @@
     "name" : "Austrian Grand Prix",
     "raceRef" : "202411",
     "round" : 11,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -17026,6 +17049,7 @@
     "name" : "British Grand Prix",
     "raceRef" : "202412",
     "round" : 12,
+    "time" : 50400,
     "year" : 2024
   },
   {
@@ -17038,6 +17062,7 @@
     "name" : "Hungarian Grand Prix",
     "raceRef" : "202413",
     "round" : 13,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -17050,6 +17075,7 @@
     "name" : "Belgian Grand Prix",
     "raceRef" : "202414",
     "round" : 14,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -17062,6 +17088,7 @@
     "name" : "Dutch Grand Prix",
     "raceRef" : "202415",
     "round" : 15,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -17074,6 +17101,7 @@
     "name" : "Italian Grand Prix",
     "raceRef" : "202416",
     "round" : 16,
+    "time" : 46800,
     "year" : 2024
   },
   {
@@ -17086,6 +17114,7 @@
     "name" : "Azerbaijan Grand Prix",
     "raceRef" : "202417",
     "round" : 17,
+    "time" : 39600,
     "year" : 2024
   },
   {
@@ -17098,6 +17127,7 @@
     "name" : "Singapore Grand Prix",
     "raceRef" : "202418",
     "round" : 18,
+    "time" : 43200,
     "year" : 2024
   },
   {
@@ -17110,6 +17140,7 @@
     "name" : "United States Grand Prix",
     "raceRef" : "202419",
     "round" : 19,
+    "time" : 68400,
     "year" : 2024
   },
   {
@@ -17122,6 +17153,7 @@
     "name" : "Mexico City Grand Prix",
     "raceRef" : "202420",
     "round" : 20,
+    "time" : 72000,
     "year" : 2024
   },
   {
@@ -17134,6 +17166,7 @@
     "name" : "São Paulo Grand Prix",
     "raceRef" : "202421",
     "round" : 21,
+    "time" : 61200,
     "year" : 2024
   },
   {
@@ -17146,6 +17179,7 @@
     "name" : "Las Vegas Grand Prix",
     "raceRef" : "202422",
     "round" : 22,
+    "time" : 21600,
     "year" : 2024
   },
   {
@@ -17158,6 +17192,7 @@
     "name" : "Qatar Grand Prix",
     "raceRef" : "202423",
     "round" : 23,
+    "time" : 61200,
     "year" : 2024
   },
   {
@@ -17170,6 +17205,7 @@
     "name" : "Abu Dhabi Grand Prix",
     "raceRef" : "202424",
     "round" : 24,
+    "time" : 46800,
     "year" : 2024
   }
 ]
