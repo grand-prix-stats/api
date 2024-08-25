@@ -17007,6 +17007,9 @@
     "raceRef" : "202408",
     "round" : 8,
     "time" : 46800,
+    "winningConstructorColor" : "#F91435",
+    "winningConstructorName" : "Ferrari",
+    "winningDriverRef" : "leclerc",
     "year" : 2024
   },
   {
@@ -17020,6 +17023,9 @@
     "raceRef" : "202409",
     "round" : 9,
     "time" : 64800,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2024
   },
   {
@@ -17033,6 +17039,9 @@
     "raceRef" : "202410",
     "round" : 10,
     "time" : 46800,
+    "winningConstructorColor" : "#3671C6",
+    "winningConstructorName" : "Red Bull",
+    "winningDriverRef" : "max_verstappen",
     "year" : 2024
   },
   {
@@ -17046,6 +17055,9 @@
     "raceRef" : "202411",
     "round" : 11,
     "time" : 46800,
+    "winningConstructorColor" : "#6CD3BE",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "russell",
     "year" : 2024
   },
   {
@@ -17059,6 +17071,9 @@
     "raceRef" : "202412",
     "round" : 12,
     "time" : 50400,
+    "winningConstructorColor" : "#6CD3BE",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2024
   },
   {
@@ -17072,6 +17087,9 @@
     "raceRef" : "202413",
     "round" : 13,
     "time" : 46800,
+    "winningConstructorColor" : "#F5801F",
+    "winningConstructorName" : "McLaren",
+    "winningDriverRef" : "piastri",
     "year" : 2024
   },
   {
@@ -17085,6 +17103,9 @@
     "raceRef" : "202414",
     "round" : 14,
     "time" : 46800,
+    "winningConstructorColor" : "#6CD3BE",
+    "winningConstructorName" : "Mercedes",
+    "winningDriverRef" : "hamilton",
     "year" : 2024
   },
   {
